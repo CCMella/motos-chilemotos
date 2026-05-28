@@ -1,43 +1,27 @@
-# Analisis de Motos Usadas - Chilemotos
+# Motos usadas en Chile - Prediccion de precios
 
-Scraping, limpieza, analisis exploratorio y modelo de prediccion de precios de motos usadas en Chile, utilizando datos de Chilemotos.com.
+Scrapee datos de chilemotos.com (como 1000 avisos) para explorar el mercado de motos usadas en Chile y tratar de predecir precios segun año, km y cilindrada.
 
-## Estructura
+## Que hay aca
 
-```
-motos-chilemotos/
-├── data/
-│   ├── motos_chilemotos.csv   (datos crudos del scraper)
-│   └── motos_limpias.csv      (datos limpios para el modelo)
-├── src/
-│   ├── script_motos_scrap.py  — Scraper con Playwright
-│   ├── EDA_motos.py           — Limpieza y graficos exploratorios
-│   ├── modelo_motos.py        — RandomForestRegressor
-│   └── app_motos.py           — Dashboard con Streamlit
-├── .gitignore
-└── README.md
-```
+- `src/script_motos_scrap.py` — el scraper con Playwright, recorre todas las paginas del catalogo
+- `src/EDA_motos.py` — limpia los datos (los precios vienen escritos como la gente, con puntos y a veces sin los miles) y genera 4 graficos
+- `src/modelo_motos.py` — RandomForest para estimar precio
+- `src/app_motos.py` — dashboard sencillo con Streamlit
+- `data/` — los csv, el crudo y el limpio
 
-## Resultados del modelo
-
-| Metrica       | Valor  |
-|---------------|--------|
-| R² (test)     | 0.815  |
-| MAE           | $895k  |
-| MAPE          | 33.4%  |
-
-## Como ejecutar
+## Como corre
 
 ```bash
 pip install pandas matplotlib scikit-learn streamlit playwright
 cd motos-chilemotos
-python src/EDA_motos.py
-python src/modelo_motos.py
-streamlit run src/app_motos.py
+python src/EDA_motos.py      # genera los graficos y el csv limpio
+python src/modelo_motos.py   # entrena el modelo y muestra metricas
+streamlit run src/app_motos.py  # dashboard interactivo
 ```
 
-## Mejoras futuras
+## El modelo
 
-- Extraer marca y modelo del titulo para mejorar la prediccion
-- Scrapear periodicamente para detectar cambios de precio
-- Probar modelos mas avanzados (XGBoost, redes neuronales)
+El RandomForest con 300 arboles predice el precio explicando un 82% de la variabilidad (R² en test). Las variables mas importantes son cilindrada (78%), año (14%) y km (8%). El error promedio es de ~$895k (~33%).
+
+Le falta marca y modelo para mejorarlo, pero para ser solo 3 variables no esta mal.
