@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 st.set_page_config(layout="wide")
 st.title("Analisis de Motos Usadas - Chilemotos")
 
-df = pd.read_csv(r'C:\Users\camil\OneDrive\Escritorio\automatizado\motos_chilemotos\motos_limpias.csv', sep=';')
+df = pd.read_csv(r'data/motos_limpias.csv', sep=';')
 
 st.sidebar.header("Filtros")
 rango_cc = st.sidebar.slider("Cilindrada (cc)", 0, 2000, (0, 2000))

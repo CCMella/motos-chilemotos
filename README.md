@@ -2,12 +2,21 @@
 
 Scraping, limpieza, analisis exploratorio y modelo de prediccion de precios de motos usadas en Chile, utilizando datos de Chilemotos.com.
 
-## Scripts
+## Estructura
 
-- `script_motos_scrap.py` — Scraper con Playwright que recorre las 100 paginas del catalogo y guarda los datos en CSV.
-- `EDA_motos.py` — Limpieza de datos (precios mal escritos, unidades de cilindrada inconsistentes, outliers) y 4 graficos exploratorios.
-- `modelo_motos.py` — RandomForestRegressor para predecir precio en funcion de ano, kilometraje y cilindrada. Evaluacion con R², MAE y MAPE.
-- `app_motos.py` — Dashboard interactivo con Streamlit.
+```
+motos-chilemotos/
+├── data/
+│   ├── motos_chilemotos.csv   (datos crudos del scraper)
+│   └── motos_limpias.csv      (datos limpios para el modelo)
+├── src/
+│   ├── script_motos_scrap.py  — Scraper con Playwright
+│   ├── EDA_motos.py           — Limpieza y graficos exploratorios
+│   ├── modelo_motos.py        — RandomForestRegressor
+│   └── app_motos.py           — Dashboard con Streamlit
+├── .gitignore
+└── README.md
+```
 
 ## Resultados del modelo
 
@@ -21,9 +30,10 @@ Scraping, limpieza, analisis exploratorio y modelo de prediccion de precios de m
 
 ```bash
 pip install pandas matplotlib scikit-learn streamlit playwright
-python EDA_motos.py
-python modelo_motos.py
-streamlit run app_motos.py
+cd motos-chilemotos
+python src/EDA_motos.py
+python src/modelo_motos.py
+streamlit run src/app_motos.py
 ```
 
 ## Mejoras futuras

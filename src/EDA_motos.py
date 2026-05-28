@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-df = pd.read_csv(r'C:\Users\camil\OneDrive\Escritorio\automatizado\motos_chilemotos\motos_chilemotos.csv', sep=';')
+df = pd.read_csv(r'data/motos_chilemotos.csv', sep=';')
 
 # limpieza
 df = df.dropna(subset=["precio"]).copy()
@@ -107,12 +107,12 @@ print(f"Rango de años: {int(df['ano'].min())} - {int(df['ano'].max())}")
 print(f"Precio promedio: ${df['precio_num'].mean()/1_000_000:.2f}M CLP")
 
 # guardar datos limpios
-salida = r'C:\Users\camil\OneDrive\Escritorio\automatizado\motos_chilemotos\motos_limpias.csv'
+salida = r'data/motos_limpias.csv'
 try:
     df.to_csv(salida, sep=';', index=False)
     print(f"Datos limpios guardados en {salida}")
 except PermissionError:
-    salida = r'C:\Users\camil\OneDrive\Escritorio\automatizado\motos_chilemotos\motos_limpias_v2.csv'
+    salida = r'data/motos_limpias_v2.csv'
     df.to_csv(salida, sep=';', index=False)
     print(f"Archivo original ocupado. Guardado como motos_limpias_v2.csv")
 

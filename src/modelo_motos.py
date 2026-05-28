@@ -3,7 +3,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score, mean_absolute_error
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv(r'C:\Users\camil\OneDrive\Escritorio\automatizado\motos_chilemotos\motos_limpias.csv', sep=';')
+df = pd.read_csv(r'data/motos_limpias.csv', sep=';')
 
 print(f"Datos cargados: {len(df)} motos")
 

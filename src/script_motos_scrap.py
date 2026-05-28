@@ -4,7 +4,7 @@ import time
 from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://www.chilemotos.com/moto"
-CSV_FILE = r"C:\Users\camil\OneDrive\Escritorio\automatizado\motos_chilemotos\motos_chilemotos.csv"
+CSV_FILE = r"data/motos_chilemotos.csv"
 HEADERS = ["titulo", "precio", "ano", "kilometraje", "cilindrada", "url"]
 
 def extract_motos(page):
