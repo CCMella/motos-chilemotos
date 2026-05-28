@@ -1,0 +1,929 @@
+titulo;precio;ano;kilometraje;cilindrada;url;precio_num;cilindrada_cc;km;rango_cc;rango_km
+KTM 1090 Adventure “S” (2018), impecable, full + escape y silenciador Remus;$9.350.000;2018.0;20500.0;1.09;https://www.chilemotos.com/moto/68159/;9350000.0;1090.0;20500.0;1000cc+;10k-30k
+Germania CG 250s;$1.850.000;2026.0;6300.0;250.0;https://www.chilemotos.com/moto/68139/;1850000.0;250.0;6300.0;201-500cc;0-10k
+Venta de Moto Honda Dio;$1.200.000;2022.0;900.0;109.0;https://www.chilemotos.com/moto/68100/;1200000.0;109.0;900.0;0-200cc;0-10k
+Yamaha Xmax 300;$4.900.000;2024.0;2923.0;300.0;https://www.chilemotos.com/moto/67275/;4900000.0;300.0;2923.0;201-500cc;0-10k
+Africa Twin Adventure Sport 2019;$10.800.000;2019.0;31000.0;1.0;https://www.chilemotos.com/moto/67280/;10800000.0;1000.0;31000.0;501-1000cc;30k-50k
+Bajaj Pulsar RS200 2020 – 13.000 km – Excelente estado;$2.200.000;2017.0;13000.0;200.0;https://www.chilemotos.com/moto/67262/;2200000.0;200.0;13000.0;0-200cc;10k-30k
+Bajaj Pulsar RS200 2020 – 13.000 km – Excelente estado;$2.200.000;2020.0;13200.0;200.0;https://www.chilemotos.com/moto/67245/;2200000.0;200.0;13200.0;0-200cc;10k-30k
+Bajaj Pulsar RS200 2020 – 13.000 km – Excelente estado;$2.200.000;2020.0;13300.0;200.0;https://www.chilemotos.com/moto/67249/;2200000.0;200.0;13300.0;0-200cc;10k-30k
+MOTOS ENDURO;$3.290;2025.0;0.0;85.0;https://www.chilemotos.com/moto/67237/;3290000.0;85.0;0.0;0-200cc;
+moto impecable único dueño;$4.300.000;2017.0;51.0;500.0;https://www.chilemotos.com/moto/67227/;4300000.0;500.0;51.0;201-500cc;0-10k
+Motorrad X-Type 200cc – Impecable y TRANSFERIBLE;$1.000.000;2019.0;1500.0;200.0;https://www.chilemotos.com/moto/67210/;1000000.0;200.0;1500.0;0-200cc;0-10k
+KTM 250 Adventure 2021;$3.200.000;2021.0;25000.0;250.0;https://www.chilemotos.com/moto/67200/;3200000.0;250.0;25000.0;201-500cc;10k-30k
+Yamaha FZ-25 A Negra Nueva;$3.399.998;2025.0;10.0;249.0;https://www.chilemotos.com/moto/67193/;3399998.0;249.0;10.0;201-500cc;0-10k
+Yamaha FZ-25 A Negra Nueva;$3.400.000;2025.0;0.0;249.0;https://www.chilemotos.com/moto/67191/;3400000.0;249.0;0.0;201-500cc;
+Moto BMW G310r;$3.900.000;2021.0;2000.0;313.0;https://www.chilemotos.com/moto/67134/;3900000.0;313.0;2000.0;201-500cc;0-10k
+HONDA CB 160F XBLADE 2023;$1.800.000;2023.0;7152.0;160.0;https://www.chilemotos.com/moto/67124/;1800000.0;160.0;7152.0;0-200cc;0-10k
+Moto enduro;$3.290.000;2025.0;1.0;85.0;https://www.chilemotos.com/moto/67117/;3290000.0;85.0;1.0;0-200cc;0-10k
+Pilder 400 (motor fundido);$1.000.000;2022.0;70000.0;400.0;https://www.chilemotos.com/moto/67109/;1000000.0;400.0;70000.0;201-500cc;50k+
+MOTOS DE ENDURO;$3.290.000;2025.0;0.0;85.0;https://www.chilemotos.com/moto/67112/;3290000.0;85.0;0.0;0-200cc;
+YAMAHA FZ 2.0 2016;$1.099.999;2015.0;54000.0;148.0;https://www.chilemotos.com/moto/67106/;1099999.0;148.0;54000.0;0-200cc;50k+
+Honda CB190R 190CC 2023;$1.850.000;2022.0;14.0;190.0;https://www.chilemotos.com/moto/67101/;1850000.0;190.0;14.0;0-200cc;0-10k
+HONDA CB 160F XBLADE 2023;$1.800.000;2023.0;7152.0;160.0;https://www.chilemotos.com/moto/67090/;1800000.0;160.0;7152.0;0-200cc;0-10k
+HONDA CB 160F XBLADE 2023;$1.800.000;2023.0;7152.0;160.0;https://www.chilemotos.com/moto/67087/;1800000.0;160.0;7152.0;0-200cc;0-10k
+Zontes 310v;$3.500.000;2022.0;10500.0;300.0;https://www.chilemotos.com/moto/67072/;3500000.0;300.0;10500.0;201-500cc;10k-30k
+HONDA CB 160F XBLADE 2023;$1.800.000;2023.0;7152.0;160.0;https://www.chilemotos.com/moto/67085/;1800000.0;160.0;7152.0;0-200cc;0-10k
+Suzuki Gixxer 250 SF;$3.700.000;2024.0;16000.0;250.0;https://www.chilemotos.com/moto/67048/;3700000.0;250.0;16000.0;201-500cc;10k-30k
+2021 Lifan LF250 D;$2.000.000;2021.0;118.0;250.0;https://www.chilemotos.com/moto/67030/;2000000.0;250.0;118.0;201-500cc;0-10k
+2021 Lifan LF250 D;$2.000.000;2021.0;119.0;250.0;https://www.chilemotos.com/moto/67035/;2000000.0;250.0;119.0;201-500cc;0-10k
+Suzuki inazuma 250 excelente;$2.000.000;2013.0;50000.0;250.0;https://www.chilemotos.com/moto/67011/;2000000.0;250.0;50000.0;201-500cc;30k-50k
+Voge acx 300 2024;$2.100.000;2024.0;8400.0;300.0;https://www.chilemotos.com/moto/67007/;2100000.0;300.0;8400.0;201-500cc;0-10k
+BMW F700 GS – 798cc;$6.500.000;2017.0;53138.0;798.0;https://www.chilemotos.com/moto/66977/;6500000.0;798.0;53138.0;501-1000cc;50k+
+BMW F700 GS – 798cc;$6.500.000;2017.0;53300.0;798.0;https://www.chilemotos.com/moto/66973/;6500000.0;798.0;53300.0;501-1000cc;50k+
+BMW F700 GS – 798 cc;$6.500.000;2017.0;53300.0;798.0;https://www.chilemotos.com/moto/66964/;6500000.0;798.0;53300.0;501-1000cc;50k+
+Suzuki Gixxer 250 SF;$3.700.000;2024.0;16000.0;250.0;https://www.chilemotos.com/moto/66969/;3700000.0;250.0;16000.0;201-500cc;10k-30k
+BMW F700 GS – 798 cc;$6.500.000;2019.0;53300.0;798.0;https://www.chilemotos.com/moto/66960/;6500000.0;798.0;53300.0;501-1000cc;50k+
+Suzuki Gixxer 250 SF;$3.700.000;2024.0;16000.0;250.0;https://www.chilemotos.com/moto/66959/;3700000.0;250.0;16000.0;201-500cc;10k-30k
+Suzuki Gixxer 250 SF;$3.700.000;2024.0;16000.0;250.0;https://www.chilemotos.com/moto/66955/;3700000.0;250.0;16000.0;201-500cc;10k-30k
+Suzuki Gixxer 250 SF negro matte.;$3.700.000;2024.0;160000.0;250.0;https://www.chilemotos.com/moto/66947/;3700000.0;250.0;160000.0;201-500cc;50k+
+Se vende Lifan KPT200, 2021, 11.000 Km;$1.950.000;2021.0;11000.0;200.0;https://www.chilemotos.com/moto/66941/;1950000.0;200.0;11000.0;0-200cc;10k-30k
+Venta moto Lifan KPT200;$1.950.000;2021.0;11000.0;200.0;https://www.chilemotos.com/moto/66936/;1950000.0;200.0;11000.0;0-200cc;10k-30k
+Venta moto Lifan KPT200;$1.950.000;2021.0;11000.0;200.0;https://www.chilemotos.com/moto/66932/;1950000.0;200.0;11000.0;0-200cc;10k-30k
+Vendo moto;$4.500.000;2022.0;31122.0;648.0;https://www.chilemotos.com/moto/66918/;4500000.0;648.0;31122.0;501-1000cc;30k-50k
+Yamaha Tenere – año 2023 / full equipada, único dueño;$10.300.000;2023.0;62000.0;700.0;https://www.chilemotos.com/moto/66899/;10300000.0;700.0;62000.0;501-1000cc;50k+
+Yamaha Ténéré 700 – Año 2023;$10.300.000;2023.0;62000.0;700.0;https://www.chilemotos.com/moto/66896/;10300000.0;700.0;62000.0;501-1000cc;50k+
+Yamaha Ténéré 700 – Año 2023;$9.990.000;2023.0;62000.0;700.0;https://www.chilemotos.com/moto/66888/;9990000.0;700.0;62000.0;501-1000cc;50k+
+Yamaha Ténéré 700 – Año 2023;$9.990.000;2021.0;61999.0;699.0;https://www.chilemotos.com/moto/66885/;9990000.0;699.0;61999.0;501-1000cc;50k+
+Yamaha Fz16 – 153cc;$1.550.000;2018.0;14600.0;153.0;https://www.chilemotos.com/moto/66870/;1550000.0;153.0;14600.0;0-200cc;10k-30k
+Yamaha XTZ;$1.600;2024.0;8391.0;125.0;https://www.chilemotos.com/moto/66849/;1600000.0;125.0;8391.0;0-200cc;0-10k
+Triumph Tiger 800xc 2015;$6.600.000;2015.0;38000.0;800.0;https://www.chilemotos.com/moto/66837/;6600000.0;800.0;38000.0;501-1000cc;30k-50k
+GS 1200 Adventure Triple Black;$15.500.000;2017.0;48299.0;1.2;https://www.chilemotos.com/moto/66826/;15500000.0;1200.0;48299.0;1000cc+;30k-50k
+Suzuki RMZ 250;$2.500.000;2013.0;60.0;250.0;https://www.chilemotos.com/moto/66817/;2500000.0;250.0;60.0;201-500cc;0-10k
+Honda XRE 300;$3.900.000;2022.0;15000.0;300.0;https://www.chilemotos.com/moto/66808/;3900000.0;300.0;15000.0;201-500cc;10k-30k
+GS 1200 Adventure;$15.500.000;2017.0;47600.0;1.2;https://www.chilemotos.com/moto/66794/;15500000.0;1200.0;47600.0;1000cc+;30k-50k
+Vendo moto honda elite con poco uso unica dueña;$600.000;2012.0;5136.0;125.0;https://www.chilemotos.com/moto/66757/;600000.0;125.0;5136.0;0-200cc;0-10k
+vendo moto con poco km unica dueña;$600;2013.0;6.0;125.0;https://www.chilemotos.com/moto/66755/;600000.0;125.0;6.0;0-200cc;0-10k
+2024 BMW F 750 GS I New;$9.500.000;2024.0;15000.0;850.0;https://www.chilemotos.com/moto/66750/;9500000.0;850.0;15000.0;501-1000cc;10k-30k
+Lifan KPT200;$1.200.000;2023.0;14500.0;200.0;https://www.chilemotos.com/moto/66693/;1200000.0;200.0;14500.0;0-200cc;10k-30k
+Dominar 400ug 2022;$2.900.000;2022.0;20000.0;400.0;https://www.chilemotos.com/moto/66658/;2900000.0;400.0;20000.0;201-500cc;10k-30k
+MOTORRAD TTX150 – AÑO 2022;$850;2022.0;11700.0;150.0;https://www.chilemotos.com/moto/66631/;850000.0;150.0;11700.0;0-200cc;10k-30k
+Royal Enfield Hunter 350 2024;$2.950.000;2024.0;4600.0;350.0;https://www.chilemotos.com/moto/66616/;2950000.0;350.0;4600.0;201-500cc;0-10k
+moto bajaj pulsar ns 200;$2.300.000;2023.0;10002.0;201.0;https://www.chilemotos.com/moto/66552/;2300000.0;201.0;10002.0;201-500cc;10k-30k
+Por cambio de cilindrada;$3.200.000;2020.0;38000.0;400.0;https://www.chilemotos.com/moto/66547/;3200000.0;400.0;38000.0;201-500cc;30k-50k
+Bajaj Dominar 400 2024 Potencia, estilo y confort premium Color Burdeo;$3.100.000;2024.0;15996.0;400.0;https://www.chilemotos.com/moto/66534/;3100000.0;400.0;15996.0;201-500cc;10k-30k
+Vendo moto Bajaj Pulsar 160 2025;$2.350.000;2025.0;5.0;160.0;https://www.chilemotos.com/moto/66513/;2350000.0;160.0;5.0;0-200cc;0-10k
+VENDO MOTO ZONGSHEN RX1;$1.680.000;2021.0;10898.0;200.0;https://www.chilemotos.com/moto/66477/;1680000.0;200.0;10898.0;0-200cc;10k-30k
+Joyaa a la venta;$3.000.000;2023.0;16500.0;350.0;https://www.chilemotos.com/moto/66435/;3000000.0;350.0;16500.0;201-500cc;10k-30k
+Se vende moto Euromot kd 150cc al día;$1.000.000;2021.0;24000.0;150.0;https://www.chilemotos.com/moto/66361/;1000000.0;150.0;24000.0;0-200cc;10k-30k
+VENDO MOTO EQUIPADA POCO USO UNICO DUEÑO DOCUMENTOS AL DIA;$1.650.000;2021.0;10900.0;200.0;https://www.chilemotos.com/moto/66158/;1650000.0;200.0;10900.0;0-200cc;10k-30k
+Keeway RK 150 año 2022 – 8.400 km – Excelente estado;$750.000;2022.0;8400.0;150.0;https://www.chilemotos.com/moto/66077/;750000.0;150.0;8400.0;0-200cc;0-10k
+Vendo Yamaha MT 03;$6.050.000;2023.0;10500.0;320.0;https://www.chilemotos.com/moto/65978/;6050000.0;320.0;10500.0;201-500cc;10k-30k
+Yamaha fz 150cc;$2.000.000;2025.0;670.0;150.0;https://www.chilemotos.com/moto/65837/;2000000.0;150.0;670.0;0-200cc;0-10k
+KTM 390 Adventure Equipada IMPECABLE Servicios realizados en KTM;$6.400.000;2023.0;12000.0;390.0;https://www.chilemotos.com/moto/65800/;6400000.0;390.0;12000.0;201-500cc;10k-30k
+Zongshen RX3;$1.800.000;2020.0;36000.0;250.0;https://www.chilemotos.com/moto/65774/;1800000.0;250.0;36000.0;201-500cc;30k-50k
+Suzuki inazuma 250;$2.500.000;2013.0;50000.0;250.0;https://www.chilemotos.com/moto/65734/;2500000.0;250.0;50000.0;201-500cc;30k-50k
+Moto Suzuki GSX;$1.800.000;2021.0;59924.0;150.0;https://www.chilemotos.com/moto/65726/;1800000.0;150.0;59924.0;0-200cc;50k+
+Takasaki tk150gy;$700.000;2023.0;13000.0;150.0;https://www.chilemotos.com/moto/65713/;700000.0;150.0;13000.0;0-200cc;10k-30k
+Yamaha xtz 125;$1.350.000;2023.0;12500.0;125.0;https://www.chilemotos.com/moto/65708/;1350000.0;125.0;12500.0;0-200cc;10k-30k
+Moto KTM Adventure 390 año 2022;$4.500.000;2022.0;18999.0;388.0;https://www.chilemotos.com/moto/65692/;4500000.0;388.0;18999.0;201-500cc;10k-30k
+Moto FZX 150 Neo Retro;$2.000;2025.0;9500.0;150.0;https://www.chilemotos.com/moto/65680/;2000000.0;150.0;9500.0;0-200cc;0-10k
+Vendo Moto;$4;2019.0;17.0;250.0;https://www.chilemotos.com/moto/65669/;4000000.0;250.0;17.0;201-500cc;0-10k
+Moto Zongshen RX3S;$3.650.000;2023.0;7600.0;400.0;https://www.chilemotos.com/moto/65661/;3650000.0;400.0;7600.0;201-500cc;0-10k
+Venta de Moto casi nueva;$1.700.000;2023.0;45.0;150.0;https://www.chilemotos.com/moto/65639/;1700000.0;150.0;45.0;0-200cc;0-10k
+moto bacan;$500;2001.0;500.0;500.0;https://www.chilemotos.com/moto/65619/;500000.0;500.0;500.0;201-500cc;0-10k
+2022 SUNRA MIKU MAX;$880.000;2022.0;10.0;50.0;https://www.chilemotos.com/moto/65574/;880000.0;50.0;10.0;0-200cc;0-10k
+vendo motocicleta deportiva;$2.600.000;2022.0;10000.0;150.0;https://www.chilemotos.com/moto/65566/;2600000.0;150.0;10000.0;0-200cc;0-10k
+Se vende por urgencia;$1.650.000;2022.0;12900.0;250.0;https://www.chilemotos.com/moto/65553/;1650000.0;250.0;12900.0;201-500cc;10k-30k
+VENDO;$8.900.000;2016.0;22997.0;1.0;https://www.chilemotos.com/moto/65525/;8900000.0;1000.0;22997.0;501-1000cc;10k-30k
+YAMAHA XSR700 2020;$6.800.000;2020.0;15133.0;700.0;https://www.chilemotos.com/moto/65497/;6800000.0;700.0;15133.0;501-1000cc;10k-30k
+Se vende Yamaha Fzx 150 2025;$2.000.000;2025.0;9000.0;150.0;https://www.chilemotos.com/moto/65485/;2000000.0;150.0;9000.0;0-200cc;0-10k
+BMW gs 310;$3.800.000;2021.0;12000.0;310.0;https://www.chilemotos.com/moto/65388/;3800000.0;310.0;12000.0;201-500cc;10k-30k
+Vespa 300..un solo uso;$6.700.000;2025.0;30.0;300.0;https://www.chilemotos.com/moto/65332/;6700000.0;300.0;30.0;201-500cc;0-10k
+BMW C400 GT como nueva;$11.000.000;2022.0;1000.0;400.0;https://www.chilemotos.com/moto/65331/;11000000.0;400.0;1000.0;201-500cc;0-10k
+Suzuki boulevard s40 (LS 650);$4.000.000;2018.0;6000.0;652.0;https://www.chilemotos.com/moto/67916/;4000000.0;652.0;6000.0;501-1000cc;0-10k
+Motoneta clásica, como nueva;$2.580.000;2023.0;2350.0;125.0;https://www.chilemotos.com/moto/67907/;2580000.0;125.0;2350.0;0-200cc;0-10k
+Ducati Diavel 1260S 2022;$20.990.000;2022.0;5444.0;1.26;https://www.chilemotos.com/moto/66724/;20990000.0;1260.0;5444.0;1000cc+;0-10k
+Triumph tiger 850 sport 2023;$10.200.000;2023.0;15400.0;888.0;https://www.chilemotos.com/moto/66672/;10200000.0;888.0;15400.0;501-1000cc;10k-30k
+Honda cb500 x;$5.300.000;2020.0;21000.0;500.0;https://www.chilemotos.com/moto/66644/;5300000.0;500.0;21000.0;201-500cc;10k-30k
+MOTORRAD TTX150 – AÑO 2022;$850.000;2022.0;11700.0;150.0;https://www.chilemotos.com/moto/66633/;850000.0;150.0;11700.0;0-200cc;10k-30k
+Yamaha Nmax Connected 155;$3.100.000;2024.0;2000.0;155.0;https://www.chilemotos.com/moto/66612/;3100000.0;155.0;2000.0;0-200cc;0-10k
+🛵 Vespa GTS 300 ABS – Año 2019 – Muy buen estado;$4.600.000;2019.0;24700.0;300.0;https://www.chilemotos.com/moto/66589/;4600000.0;300.0;24700.0;201-500cc;10k-30k
+Bajaj Dominar 250. Único dueño. Muy poco uso;$2.800.000;2022.0;2450.0;250.0;https://www.chilemotos.com/moto/66572/;2800000.0;250.0;2450.0;201-500cc;0-10k
+Honda XR 250 Tornado;$2.500.000;2014.0;52920.0;249.0;https://www.chilemotos.com/moto/66516/;2500000.0;249.0;52920.0;201-500cc;50k+
+HUSQVARNA Svartpilen 250;$2.800.000;2021.0;50.0;250.0;https://www.chilemotos.com/moto/66494/;2800000.0;250.0;50.0;201-500cc;0-10k
+SYM 200 TAYWANESA CON NYECCION;$2.200;2023.0;6000.0;200.0;https://www.chilemotos.com/moto/66453/;2200000.0;200.0;6000.0;0-200cc;0-10k
+BMW F850 Adventurer como nueva + adicionales;$14.000.000;2021.0;12772.0;850.0;https://www.chilemotos.com/moto/66431/;14000000.0;850.0;12772.0;501-1000cc;10k-30k
+VENTA MOTO SUZUKI GZ150-A CHOPPER;$1.400.000;2019.0;6000.0;150.0;https://www.chilemotos.com/moto/66411/;1400000.0;150.0;6000.0;0-200cc;0-10k
+Se vende BMW GS II 2024;$12.600.000;2024.0;19420.0;850.0;https://www.chilemotos.com/moto/66406/;12600000.0;850.0;19420.0;501-1000cc;10k-30k
+Vendo Cuatrimoto;$750.000;2023.0;1.0;125.0;https://www.chilemotos.com/moto/66385/;750000.0;125.0;1.0;0-200cc;0-10k
+BMW G310 GS;$5.700.000;2022.0;350.0;310.0;https://www.chilemotos.com/moto/66365/;5700000.0;310.0;350.0;201-500cc;0-10k
+Honda DIO 110;$1.200.000;2023.0;6700.0;110.0;https://www.chilemotos.com/moto/66347/;1200000.0;110.0;6700.0;0-200cc;0-10k
+Por no uso se vende;$11.990.000;2025.0;5800.0;900.0;https://www.chilemotos.com/moto/66315/;11990000.0;900.0;5800.0;501-1000cc;0-10k
+BMW S1000 XR;$21.500.000;2025.0;1180.0;1.0;https://www.chilemotos.com/moto/66306/;21500000.0;1000.0;1180.0;501-1000cc;0-10k
+2025 Moto Haojue Tr150s;$1.350.000;2025.0;3780.0;150.0;https://www.chilemotos.com/moto/66284/;1350000.0;150.0;3780.0;0-200cc;0-10k
+Honda CB500X 2019 – Impecable – Uso diario – Full accesorios – Conversable;$4.000.000;2019.0;53900.0;471.0;https://www.chilemotos.com/moto/66257/;4000000.0;471.0;53900.0;201-500cc;50k+
+BMW 1250 Adventure HP;$17.990.550;2016.0;55000.0;1.247;https://www.chilemotos.com/moto/66249/;17990550.0;1247.0;55000.0;1000cc+;50k+
+Zonsen Cyclone Ra2 2025 – 5.000 Km;$2.089.998;2025.0;5400.0;250.0;https://www.chilemotos.com/moto/66229/;2089998.0;250.0;5400.0;201-500cc;0-10k
+Yamaha XTZ 2024 casi nueva | 820 km | GPS;$2.400.000;2024.0;820.0;150.0;https://www.chilemotos.com/moto/66214/;2400000.0;150.0;820.0;0-200cc;0-10k
+Moto Cyclone AR2;$2.200.000;2025.0;3000.0;250.0;https://www.chilemotos.com/moto/66184/;2200000.0;250.0;3000.0;201-500cc;0-10k
+Oportunidad vendo Moto Honda Elite 125 año 2012;$600;2012.0;32545.0;125.0;https://www.chilemotos.com/moto/66005/;600000.0;125.0;32545.0;0-200cc;30k-50k
+Royal enfield supernova blue a la venta;$3.600.000;2024.0;6000.0;350.0;https://www.chilemotos.com/moto/65997/;3600000.0;350.0;6000.0;201-500cc;0-10k
+BMW F 850 GS 2024 – Moto Nueva;$11.300.000;2024.0;5000.0;853.0;https://www.chilemotos.com/moto/65908/;11300000.0;853.0;5000.0;501-1000cc;0-10k
+Suzuki Vstrom DL 650 2011;$5.500.000;2011.0;102497.0;650.0;https://www.chilemotos.com/moto/65882/;5500000.0;650.0;102497.0;501-1000cc;50k+
+Yamaha FZ 150;$1.500.000;2022.0;17000.0;150.0;https://www.chilemotos.com/moto/65846/;1500000.0;150.0;17000.0;0-200cc;10k-30k
+Vendo Moto Suzuki RM 85cc – excelente estado – cambio por renovación.;$1.400.000;2017.0;1000.0;85.0;https://www.chilemotos.com/moto/65788/;1400000.0;85.0;1000.0;0-200cc;0-10k
+Moto Suzuki GSX;$1.800.000;2021.0;6000.0;150.0;https://www.chilemotos.com/moto/65718/;1800000.0;150.0;6000.0;0-200cc;0-10k
+Moto KTM Adventure 390 año 2022;$4.500.000;2022.0;19000.0;390.0;https://www.chilemotos.com/moto/65697/;4500000.0;390.0;19000.0;201-500cc;10k-30k
+Triumph Tiger 900 GT como nueva.;$12.500.000;2025.0;4560.0;900.0;https://www.chilemotos.com/moto/65691/;12500000.0;900.0;4560.0;501-1000cc;0-10k
+HARLEY DAVIDSON STREET BOB;$21.000.000;2018.0;2749.0;1.9;https://www.chilemotos.com/moto/65683/;21000000.0;1900.0;2749.0;1000cc+;0-10k
+Suzuki Vstrom DL650 2011;$4.700.000;2011.0;38000.0;650.0;https://www.chilemotos.com/moto/65583/;4700000.0;650.0;38000.0;501-1000cc;30k-50k
+Yamaha R7;$9.300.000;2023.0;6750.0;689.0;https://www.chilemotos.com/moto/65578/;9300000.0;689.0;6750.0;501-1000cc;0-10k
+VENDO;$8.899.999;2014.0;23000.0;1.043;https://www.chilemotos.com/moto/65527/;8899999.0;1043.0;23000.0;1000cc+;10k-30k
+Moto BMW F800GS Adventure 2016 Liberada;$9.500.000;2016.0;37900.0;800.0;https://www.chilemotos.com/moto/65513/;9500000.0;800.0;37900.0;501-1000cc;30k-50k
+BMW F800 GS versión Trophy impecable;$8.590.000;2018.0;33999.0;800.0;https://www.chilemotos.com/moto/65403/;8590000.0;800.0;33999.0;501-1000cc;30k-50k
+Vespa 300..un solo uso;$6.700.000;2025.0;50.0;300.0;https://www.chilemotos.com/moto/65361/;6700000.0;300.0;50.0;201-500cc;0-10k
+Bmw F750 Gs versión II;$9.500.000;2022.0;24000.0;853.0;https://www.chilemotos.com/moto/65352/;9500000.0;853.0;24000.0;501-1000cc;10k-30k
+Cuatrimoto CF625 año 2014 papeles al día;$4.500.000;2014.0;4600.0;600.0;https://www.chilemotos.com/moto/64006/;4500000.0;600.0;4600.0;501-1000cc;0-10k
+Yamaha Xmax 300;$4.800.000;2022.0;3600.0;300.0;https://www.chilemotos.com/moto/64021/;4800000.0;300.0;3600.0;201-500cc;0-10k
+Honda NAVI óptimas condiciones;$1.200.000;2022.0;9900.0;110.0;https://www.chilemotos.com/moto/64077/;1200000.0;110.0;9900.0;0-200cc;0-10k
+NK 400 CF MOTO;$2.900.000;2022.0;19500.0;400.0;https://www.chilemotos.com/moto/64173/;2900000.0;400.0;19500.0;201-500cc;10k-30k
+Honda CB500X único dueño;$4.000.000;2017.0;47.0;500.0;https://www.chilemotos.com/moto/64360/;4000000.0;500.0;47.0;201-500cc;0-10k
+Venta Suzuki GSX 250 2025 600 kms;$3.750.000;2025.0;610.0;250.0;https://www.chilemotos.com/moto/64390/;3750000.0;250.0;610.0;201-500cc;0-10k
+KTM Duke 200 ( 2021 );$1.850.000;2021.0;74000.0;200.0;https://www.chilemotos.com/moto/64402/;1850000.0;200.0;74000.0;0-200cc;50k+
+Suzuki GSX 250 2025, 600 kms casi nueva;$3.650.000;2025.0;642.0;250.0;https://www.chilemotos.com/moto/64416/;3650000.0;250.0;642.0;201-500cc;0-10k
+Vendo Ktm 1290 R;$16.500;2022.0;34000.0;1.301;https://www.chilemotos.com/moto/64466/;16500000.0;1301.0;34000.0;1000cc+;30k-50k
+Vendo Ktm 1290 R Super Adventur $16.500.000 Año 2022 35.XXX Km Cambio de aceite cada 7500 Km Mantención 30.000 Km recién realizada AlexMaster Transmision nueva Quickshifter Varios extras.;$16.500.000;2022.0;35.0;1.301;https://www.chilemotos.com/moto/64469/;16500000.0;1301.0;35.0;1000cc+;0-10k
+Venta Moto BMW F900r;$8.000.020;2021.0;15.0;896.0;https://www.chilemotos.com/moto/64518/;8000020.0;896.0;15.0;501-1000cc;0-10k
+Moto con sidecar;$13.490.000;2024.0;16000.0;700.0;https://www.chilemotos.com/moto/64613/;13490000.0;700.0;16000.0;501-1000cc;10k-30k
+Motocicleta Honda XRE 300;$3.899.999;2023.0;9550.0;291.0;https://www.chilemotos.com/moto/64656/;3899999.0;291.0;9550.0;201-500cc;0-10k
+Yamaha nmax conect;$2.700.000;2022.0;2200.0;155.0;https://www.chilemotos.com/moto/64668/;2700000.0;155.0;2200.0;0-200cc;0-10k
+Impecable de lujo;$2.850.000;2023.0;18000.0;250.0;https://www.chilemotos.com/moto/64739/;2850000.0;250.0;18000.0;201-500cc;10k-30k
+Oportunidad , excelente estado;$2.850.000;2023.0;18000.0;250.0;https://www.chilemotos.com/moto/64741/;2850000.0;250.0;18000.0;201-500cc;10k-30k
+BMW F800GS 2016 Impecable Precio conversable;$8.000.000;2016.0;57.0;800.0;https://www.chilemotos.com/moto/64830/;8000000.0;800.0;57.0;501-1000cc;0-10k
+EUROMOT KD 150CC;$1.200.000;2025.0;2200.0;150.0;https://www.chilemotos.com/moto/64938/;1200000.0;150.0;2200.0;0-200cc;0-10k
+vendo moto Triumph Trident;$6.000.000;2022.0;25500.0;660.0;https://www.chilemotos.com/moto/65018/;6000000.0;660.0;25500.0;501-1000cc;10k-30k
+TVS APACHE 200FI AÑO 2023;$1.600.000;2023.0;21279.0;200.0;https://www.chilemotos.com/moto/65038/;1600000.0;200.0;21279.0;0-200cc;10k-30k
+Ktm Duke 250;$2.750.000;2021.0;18000.0;250.0;https://www.chilemotos.com/moto/65141/;2750000.0;250.0;18000.0;201-500cc;10k-30k
+Ktm duke 250 2021;$2.600.000;2021.0;18000.0;250.0;https://www.chilemotos.com/moto/65144/;2600000.0;250.0;18000.0;201-500cc;10k-30k
+Se vende por cambio de cilindrada;$3.500.000;2021.0;11000.0;310.0;https://www.chilemotos.com/moto/65161/;3500000.0;310.0;11000.0;201-500cc;10k-30k
+Keeway 302c;$4.000.000;2024.0;1956.0;300.0;https://www.chilemotos.com/moto/65191/;4000000.0;300.0;1956.0;201-500cc;0-10k
+Ktm Duke 250 año 2021;$2.600.000;2021.0;18000.0;250.0;https://www.chilemotos.com/moto/65147/;2600000.0;250.0;18000.0;201-500cc;10k-30k
+Se vende por apuro, papeles y mantenciones al día en la marca;$4.500.000;2021.0;36000.0;300.0;https://www.chilemotos.com/moto/65125/;4500000.0;300.0;36000.0;201-500cc;30k-50k
+Moto yamaha R3 nueva;$5.800.000;2025.0;17.0;321.0;https://www.chilemotos.com/moto/65103/;5800000.0;321.0;17.0;201-500cc;0-10k
+Mi amada moto fantástica;$5.800.000;2001.0;50.0;535.0;https://www.chilemotos.com/moto/65089/;5800000.0;535.0;50.0;501-1000cc;0-10k
+voge 500 dsx;$4.100.000;2023.0;14600.0;499.0;https://www.chilemotos.com/moto/65024/;4100000.0;499.0;14600.0;201-500cc;10k-30k
+Yamaha nmax connect;$2.650.000;2022.0;2200.0;155.0;https://www.chilemotos.com/moto/65009/;2650000.0;155.0;2200.0;0-200cc;0-10k
+Se vende honda navi al dia, como nueva;$1.100.000;2022.0;2500.0;125.0;https://www.chilemotos.com/moto/65002/;1100000.0;125.0;2500.0;0-200cc;0-10k
+2023 CFMOTO 650 MT;$3.800.000;2023.0;19500.0;650.0;https://www.chilemotos.com/moto/64985/;3800000.0;650.0;19500.0;501-1000cc;10k-30k
+KTM 390 Duke;$5.000.000;2023.0;156.0;399.0;https://www.chilemotos.com/moto/64961/;5000000.0;399.0;156.0;201-500cc;0-10k
+Se vende moto Yamaha R3 año 2024;$5.000.000;2024.0;4800.0;320.0;https://www.chilemotos.com/moto/64957/;5000000.0;320.0;4800.0;201-500cc;0-10k
+Moto binelli trk 251;$2.980.000;2021.0;16700.0;250.0;https://www.chilemotos.com/moto/64912/;2980000.0;250.0;16700.0;201-500cc;10k-30k
+SCOOTER KYMCO;$2.000.000;2020.0;11000.0;300.0;https://www.chilemotos.com/moto/64873/;2000000.0;300.0;11000.0;201-500cc;10k-30k
+BMW F900 R 2025;$14.000.000;2025.0;890.0;900.0;https://www.chilemotos.com/moto/64861/;14000000.0;900.0;890.0;501-1000cc;0-10k
+BMW F800GS 2016 Impecable Precio conversable;$8.000.000;2016.0;57.0;800.0;https://www.chilemotos.com/moto/64813/;8000000.0;800.0;57.0;501-1000cc;0-10k
+BMW 1200 GS;$9.000.000;2014.0;97800.0;1.2;https://www.chilemotos.com/moto/64781/;9000000.0;1200.0;97800.0;1000cc+;50k+
+Moto con Sidecar;$13.490.000;2024.0;16000.0;700.0;https://www.chilemotos.com/moto/64620/;13490000.0;700.0;16000.0;501-1000cc;10k-30k
+Oportunidad;$2.850.000;2023.0;18000.0;250.0;https://www.chilemotos.com/moto/64744/;2850000.0;250.0;18000.0;201-500cc;10k-30k
+Kawasaky Versys;$4.380.000;2021.0;36600.0;300.0;https://www.chilemotos.com/moto/64685/;4380000.0;300.0;36600.0;201-500cc;30k-50k
+SUZUKI INAZUMA GW250;$1.800.000;2014.0;63865.0;250.0;https://www.chilemotos.com/moto/64671/;1800000.0;250.0;63865.0;201-500cc;50k+
+VENDO KAWASAKI NINJA 400 2022 AL DIA SIN CAIDAS VIÑA DEL MAR;$5.000.000;2022.0;0.0;400.0;https://www.chilemotos.com/moto/64657/;5000000.0;400.0;0.0;201-500cc;
+pulsar ns 200;$1.600.000;2021.0;20750.0;200.0;https://www.chilemotos.com/moto/64652/;1600000.0;200.0;20750.0;0-200cc;10k-30k
+Venta Moto BMW F900r;$8.000.000;2021.0;15000.0;900.0;https://www.chilemotos.com/moto/64521/;8000000.0;900.0;15000.0;501-1000cc;10k-30k
+BMW F700 GS (798cc);$7.000.000;2016.0;51853.0;798.0;https://www.chilemotos.com/moto/64496/;7000000.0;798.0;51853.0;501-1000cc;50k+
+Vendo moto Yamaha MT 300;$2.590.000;2018.0;55000.0;300.0;https://www.chilemotos.com/moto/64478/;2590000.0;300.0;55000.0;201-500cc;50k+
+Ktm 1290 R Super Adventure;$16.500.000;2022.0;35900.0;1.301;https://www.chilemotos.com/moto/64474/;16500000.0;1301.0;35900.0;1000cc+;30k-50k
+SE VENDE Suzuki vstrom DL650 AL;$5.200.000;2012.0;54932.0;650.0;https://www.chilemotos.com/moto/64297/;5200000.0;650.0;54932.0;501-1000cc;50k+
+Moto Papeles al Dia;$2.500.000;2022.0;12000.0;350.0;https://www.chilemotos.com/moto/64241/;2500000.0;350.0;12000.0;201-500cc;10k-30k
+VENDO MI MOTO;$6.000.000;2014.0;44580.0;789.0;https://www.chilemotos.com/moto/64232/;6000000.0;789.0;44580.0;501-1000cc;30k-50k
+Moto rc200;$2.800.000;2024.0;7500.0;200.0;https://www.chilemotos.com/moto/64216/;2800000.0;200.0;7500.0;0-200cc;0-10k
+Aprilia;$6.100.000;2009.0;11000.0;1.0;https://www.chilemotos.com/moto/64204/;6100000.0;1000.0;11000.0;501-1000cc;10k-30k
+CF MOTO TRG 650;$6.300.000;2021.0;0.0;649.0;https://www.chilemotos.com/moto/64194/;6300000.0;649.0;0.0;501-1000cc;
+KTM 890 Adventure;$14.500.000;2024.0;6899.0;896.0;https://www.chilemotos.com/moto/64187/;14500000.0;896.0;6899.0;501-1000cc;0-10k
+VENDO MOTO VESPA IMPECABLE;$2.600.000;2022.0;2400.0;150.0;https://www.chilemotos.com/moto/64182/;2600000.0;150.0;2400.0;0-200cc;0-10k
+Se Vende Moto KTM duke 200 NG;$2.850.000;2022.0;1272.0;200.0;https://www.chilemotos.com/moto/64152/;2850000.0;200.0;1272.0;0-200cc;0-10k
+Moto casi nueva;$1.300.000;2020.0;1300.0;150.0;https://www.chilemotos.com/moto/64123/;1300000.0;150.0;1300.0;0-200cc;0-10k
+MT03;$2.500.000;2018.0;67700.0;300.0;https://www.chilemotos.com/moto/64069/;2500000.0;300.0;67700.0;201-500cc;50k+
+Royal Enfield Interceptor 650 Chrome;$4.300.000;2019.0;4807.0;650.0;https://www.chilemotos.com/moto/64034/;4300000.0;650.0;4807.0;501-1000cc;0-10k
+Honda NC750X;$7.800.000;2023.0;11200.0;750.0;https://www.chilemotos.com/moto/63997/;7800000.0;750.0;11200.0;501-1000cc;10k-30k
+Moto Scooter Honda Dio 2022;$1.000.000;2022.0;33700.0;125.0;https://www.chilemotos.com/moto/63986/;1000000.0;125.0;33700.0;0-200cc;30k-50k
+YAMAHA MT03;$2.750.000;2018.0;50000.0;320.0;https://www.chilemotos.com/moto/63962/;2750000.0;320.0;50000.0;201-500cc;30k-50k
+Vendo Suzuki Gixxer 250 versión aniversario;$3.750.000;2025.0;100.0;250.0;https://www.chilemotos.com/moto/63941/;3750000.0;250.0;100.0;201-500cc;0-10k
+Moto Royal Enfield Metero 350 – Stellar black;$2.600.000;2022.0;5300.0;348.0;https://www.chilemotos.com/moto/63893/;2600000.0;348.0;5300.0;201-500cc;0-10k
+Moto husqvarna 2021;$2.200.000;2021.0;27875.0;250.0;https://www.chilemotos.com/moto/63882/;2200000.0;250.0;27875.0;201-500cc;10k-30k
+Honda XRE 300 ADVENTURE 2022;$3.350.000;2022.0;3650.0;300.0;https://www.chilemotos.com/moto/63854/;3350000.0;300.0;3650.0;201-500cc;0-10k
+Excelente moto pocas en color Rojo;$3.900.000;2021.0;24000.0;310.0;https://www.chilemotos.com/moto/63597/;3900000.0;310.0;24000.0;201-500cc;10k-30k
+Venta de moto casi nueva;$1.800.000;2022.0;300.0;200.0;https://www.chilemotos.com/moto/63719/;1800000.0;200.0;300.0;0-200cc;0-10k
+Honda CB Twister 125, año 2022, 4000 klm, papeles al dia;$1.100.000;2022.0;4000.0;125.0;https://www.chilemotos.com/moto/63537/;1100000.0;125.0;4000.0;0-200cc;0-10k
+Suzuki Vstrom 250 exelente estado;$2.500.000;2019.0;26650.0;250.0;https://www.chilemotos.com/moto/63529/;2500000.0;250.0;26650.0;201-500cc;10k-30k
+BMW 850 GS II…. PRECIO ESPECIAL HASTA DICIEMBRE 2025 NEGOCIABLE;$13.000.000;2024.0;4400.0;853.0;https://www.chilemotos.com/moto/63515/;13000000.0;853.0;4400.0;501-1000cc;0-10k
+Honda poco uso;$1.900.000;2024.0;561.0;150.0;https://www.chilemotos.com/moto/63509/;1900000.0;150.0;561.0;0-200cc;0-10k
+Thiumph tiger 800 XCA top de linea;$9.500.000;2020.0;28000.0;800.0;https://www.chilemotos.com/moto/63499/;9500000.0;800.0;28000.0;501-1000cc;10k-30k
+YAMAHA FZ150 AÑO 2023 – ¡IMPECABLE!AMAHA FZ150 AÑO 2023 – ¡IMPECABLE!;$1.650.000;2023.0;16000.0;150.0;https://www.chilemotos.com/moto/63474/;1650000.0;150.0;16000.0;0-200cc;10k-30k
+CF 300sr;$2.700.000;2023.0;28800.0;300.0;https://www.chilemotos.com/moto/63459/;2700000.0;300.0;28800.0;201-500cc;10k-30k
+BMW GS 1250 2023;$20.980.000;2023.0;21599.0;1.25;https://www.chilemotos.com/moto/63436/;20980000.0;1250.0;21599.0;1000cc+;10k-30k
+Moto Yamaha NMAX 155;$2.300.000;2020.0;4490.0;155.0;https://www.chilemotos.com/moto/63399/;2300000.0;155.0;4490.0;0-200cc;0-10k
+MOTO HONDA CRF250L;$2.500.000;2020.0;60000.0;250.0;https://www.chilemotos.com/moto/63386/;2500000.0;250.0;60000.0;201-500cc;50k+
+Suzuki GSX-R 600 | 2017;$10.200.000;2017.0;6000.0;600.0;https://www.chilemotos.com/moto/63377/;10200000.0;600.0;6000.0;501-1000cc;0-10k
+Vendo;$1.550.000;2021.0;8000.0;150.0;https://www.chilemotos.com/moto/63369/;1550000.0;150.0;8000.0;0-200cc;0-10k
+Motocicleta Austríaca Cuidado Extremo;$7.800.000;2021.0;57983.0;799.0;https://www.chilemotos.com/moto/63360/;7800000.0;799.0;57983.0;501-1000cc;50k+
+🏍️Suzuki GSX250FI 2024- 1125 km;$3.800.000;2024.0;1125.0;250.0;https://www.chilemotos.com/moto/63326/;3800000.0;250.0;1125.0;201-500cc;0-10k
+🚨 SE VENDE MOTO INDIAN SCOUT 2023 – UNA JOYA SOBRE RUEDAS 🏍️💨;$13.700.000;2023.0;8000.0;1.2;https://www.chilemotos.com/moto/63321/;13700000.0;1200.0;8000.0;1000cc+;0-10k
+Benelli Leoncino 250 año 2021;$2.850.000;2021.0;2400.0;250.0;https://www.chilemotos.com/moto/63117/;2850000.0;250.0;2400.0;201-500cc;0-10k
+Vendo Honda CB 190RI REPSOL;$1.500.000;2019.0;14210.0;190.0;https://www.chilemotos.com/moto/63078/;1500000.0;190.0;14210.0;0-200cc;10k-30k
+Corsa RZ335 con abs;$3.000.000;2023.0;21000.0;335.0;https://www.chilemotos.com/moto/63028/;3000000.0;335.0;21000.0;201-500cc;10k-30k
+CFMOTO 650GT, impecable.;$3.800.000;2023.0;18.0;650.0;https://www.chilemotos.com/moto/62956/;3800000.0;650.0;18.0;501-1000cc;0-10k
+Vendo Moto fzN 150, calienta puños, dispositivo par carga de celulares, excelente estado llegar y trasferir + 2 cascos;$1.300.000;2020.0;32473.0;150.0;https://www.chilemotos.com/moto/62935/;1300000.0;150.0;32473.0;0-200cc;30k-50k
+Yamaha Nmax poco uso;$3.200.000;2024.0;970.0;155.0;https://www.chilemotos.com/moto/62851/;3200000.0;155.0;970.0;0-200cc;0-10k
+Moto Zontes X310;$2.000.000;2021.0;45000.0;312.0;https://www.chilemotos.com/moto/62795/;2000000.0;312.0;45000.0;201-500cc;30k-50k
+Gsx-r 150;$1.950.000;2022.0;60000.0;150.0;https://www.chilemotos.com/moto/62765/;1950000.0;150.0;60000.0;0-200cc;50k+
+MOTO BMW G 310 Gs 2022;$5.000.000;2022.0;769.0;310.0;https://www.chilemotos.com/moto/62750/;5000000.0;310.0;769.0;201-500cc;0-10k
+Moto Aprilia Shiver;$4.800.000;2014.0;19500.0;750.0;https://www.chilemotos.com/moto/62703/;4800000.0;750.0;19500.0;501-1000cc;10k-30k
+Vendo Dominar 400 adventure;$3.400.000;2024.0;7000.0;400.0;https://www.chilemotos.com/moto/62686/;3400000.0;400.0;7000.0;201-500cc;0-10k
+vendo Cb1000r;$8.500.000;2022.0;37129.0;998.0;https://www.chilemotos.com/moto/62535/;8500000.0;998.0;37129.0;501-1000cc;30k-50k
+VENDO MOTO KTM 500;$3.100.000;2014.0;100.0;500.0;https://www.chilemotos.com/moto/62530/;3100000.0;500.0;100.0;201-500cc;0-10k
+Moto Germania Paine 125cc;$1.250.000;2022.0;5349.0;124.0;https://www.chilemotos.com/moto/62522/;1250000.0;124.0;5349.0;0-200cc;0-10k
+Benelli Leoncino 250 – Año 2021;$2.900.000;2021.0;4225.0;250.0;https://www.chilemotos.com/moto/62504/;2900000.0;250.0;4225.0;201-500cc;0-10k
+Pulsar ns200 2014 a la venta;$1.000.000;2014.0;13340.0;200.0;https://www.chilemotos.com/moto/62488/;1000000.0;200.0;13340.0;0-200cc;10k-30k
+Voge 650 dsx;$4.650;2023.0;4000.0;650.0;https://www.chilemotos.com/moto/62449/;4650000.0;650.0;4000.0;501-1000cc;0-10k
+Por traslado Vendo mi Confiable Honda Cb250 Twister;$2.700.000;2023.0;16500.0;249.0;https://www.chilemotos.com/moto/62437/;2700000.0;249.0;16500.0;201-500cc;10k-30k
+Moto Harley Davidson excelente estado;$6.300.000;2006.0;100000.0;1.449;https://www.chilemotos.com/moto/62393/;6300000.0;1449.0;100000.0;1000cc+;50k+
+Vendo Yamaha R6;$8.500.000;2015.0;44000.0;600.0;https://www.chilemotos.com/moto/62376/;8500000.0;600.0;44000.0;501-1000cc;30k-50k
+moto Honda Nc750 x;$7.900.000;2024.0;1200.0;750.0;https://www.chilemotos.com/moto/62350/;7900000.0;750.0;1200.0;501-1000cc;0-10k
+Vendo moto;$1.290.000;2023.0;176.0;150.0;https://www.chilemotos.com/moto/62351/;1290000.0;150.0;176.0;0-200cc;0-10k
+Se vende por renovación;$4.500.000;2017.0;47232.0;500.0;https://www.chilemotos.com/moto/62334/;4500000.0;500.0;47232.0;201-500cc;30k-50k
+2019 Harley-Davidson Road King;$6.800.000;2019.0;20460.0;1.75;https://www.chilemotos.com/moto/62317/;6800000.0;1750.0;20460.0;1000cc+;10k-30k
+TVS 310 Apache;$3.300.000;2023.0;2000.0;310.0;https://www.chilemotos.com/moto/62300/;3300000.0;310.0;2000.0;201-500cc;0-10k
+KTM duke 200 (2023);$2.000.000;2023.0;4092.0;200.0;https://www.chilemotos.com/moto/62270/;2000000.0;200.0;4092.0;0-200cc;0-10k
+Vendo moto marca keeway modificada tipo custom;$1.600.000;2012.0;22.0;200.0;https://www.chilemotos.com/moto/62248/;1600000.0;200.0;22.0;0-200cc;0-10k
+2019 BMW R-Series;$5.599.999;2019.0;1283.0;1.25;https://www.chilemotos.com/moto/62214/;5599999.0;1250.0;1283.0;1000cc+;0-10k
+2018 Kawasaki Vulcan 1700;$3.500.000;2018.0;663.0;1.7;https://www.chilemotos.com/moto/62210/;3500000.0;1700.0;663.0;1000cc+;0-10k
+Moto excelentes condiciones;$1.900.000;2023.0;9000.0;153.0;https://www.chilemotos.com/moto/62174/;1900000.0;153.0;9000.0;0-200cc;0-10k
+BMW R310 casi NUEVA 23’ y 203km;$4.499.000;2023.0;203.0;310.0;https://www.chilemotos.com/moto/62119/;4499000.0;310.0;203.0;201-500cc;0-10k
+HUSQVARNA SVARPILEN 250CC;$2.490.000;2022.0;11500.0;249.0;https://www.chilemotos.com/moto/61990/;2490000.0;249.0;11500.0;201-500cc;10k-30k
+Excelente estado, único dueño;$3.100.000;2018.0;55600.0;500.0;https://www.chilemotos.com/moto/61937/;3100000.0;500.0;55600.0;201-500cc;50k+
+Euromot Vintage Cafe 150 después de un choque;$500.000;2022.0;5000.0;150.0;https://www.chilemotos.com/moto/61914/;500000.0;150.0;5000.0;0-200cc;0-10k
+Venta moto;$3.500.000;2025.0;50.0;300.0;https://www.chilemotos.com/moto/61845/;3500000.0;300.0;50.0;201-500cc;0-10k
+BMW G310R;$3.800.000;2021.0;10100.0;313.0;https://www.chilemotos.com/moto/61814/;3800000.0;313.0;10100.0;201-500cc;10k-30k
+MOTO BMW F750 GS II;$9.850.000;2021.0;14500.0;853.0;https://www.chilemotos.com/moto/61795/;9850000.0;853.0;14500.0;501-1000cc;10k-30k
+Royal Enfield Meteor 350 con Chaqueta, 2 casos y protecciones;$3.000.000;2023.0;12000.0;350.0;https://www.chilemotos.com/moto/61696/;3000000.0;350.0;12000.0;201-500cc;10k-30k
+KTM 390 ADVENTURE;$3.700.000;2020.0;31969.0;400.0;https://www.chilemotos.com/moto/61689/;3700000.0;400.0;31969.0;201-500cc;30k-50k
+Royal Enfield continental GT 650 2019;$3.800.000;2019.0;6500.0;650.0;https://www.chilemotos.com/moto/61671/;3800000.0;650.0;6500.0;501-1000cc;0-10k
+Vendo mi moto!!!;$2.700.000;2024.0;1775.0;250.0;https://www.chilemotos.com/moto/61632/;2700000.0;250.0;1775.0;201-500cc;0-10k
+Se vende Moto Yamaha FZX 150 Cc;$2.200.000;2024.0;7687.0;150.0;https://www.chilemotos.com/moto/61557/;2200000.0;150.0;7687.0;0-200cc;0-10k
+Se vende Moto Zontes 350E;$4.000.000;2025.0;120.0;350.0;https://www.chilemotos.com/moto/61561/;4000000.0;350.0;120.0;201-500cc;0-10k
+Vendo impecable Honda XR 150 2022 – Muchos extras – 25.800mil km;$1.450.000;2022.0;25800.0;150.0;https://www.chilemotos.com/moto/61551/;1450000.0;150.0;25800.0;0-200cc;10k-30k
+BMW G310 R;$4.400.000;2024.0;3450.0;310.0;https://www.chilemotos.com/moto/61545/;4400000.0;310.0;3450.0;201-500cc;0-10k
+Ducati SCRAMBLER Icon Dark 2021;$8.500.000;2021.0;14360.0;800.0;https://www.chilemotos.com/moto/61520/;8500000.0;800.0;14360.0;501-1000cc;10k-30k
+Venta monto Keeway Superlight;$1.300.000;2021.0;35000.0;200.0;https://www.chilemotos.com/moto/61522/;1300000.0;200.0;35000.0;0-200cc;30k-50k
+VOGE 250RR 2024;$3.100.000;2024.0;2000.0;230.0;https://www.chilemotos.com/moto/61473/;3100000.0;230.0;2000.0;201-500cc;0-10k
+YAMAHA WR 2021;$5.200.000;2021.0;1470.0;250.0;https://www.chilemotos.com/moto/61447/;5200000.0;250.0;1470.0;201-500cc;0-10k
+NK250 2025;$2.600.000;2025.0;6000.0;250.0;https://www.chilemotos.com/moto/61428/;2600000.0;250.0;6000.0;201-500cc;0-10k
+Vendo moto;$2.750.000;2024.0;17.0;250.0;https://www.chilemotos.com/moto/61374/;2750000.0;250.0;17.0;201-500cc;0-10k
+Moto Bajaj Dominar 400 2023 único dueño lista para firmar;$3.000.000;2023.0;25000.0;400.0;https://www.chilemotos.com/moto/61342/;3000000.0;400.0;25000.0;201-500cc;10k-30k
+Moto Yamaha FZ S Oportunidad;$2.100.000;2023.0;15.0;150.0;https://www.chilemotos.com/moto/61336/;2100000.0;150.0;15.0;0-200cc;0-10k
+Harley Davidson;$18.000.000;2009.0;50000.0;1.65;https://www.chilemotos.com/moto/61302/;18000000.0;1650.0;50000.0;1000cc+;30k-50k
+Kawasaki Z900 RS;$9.950.000;2021.0;8450.0;948.0;https://www.chilemotos.com/moto/61269/;9950000.0;948.0;8450.0;501-1000cc;0-10k
+Ducati Multistrada 1200 S – con varios extras;$10.980.000;2016.0;39000.0;1.2;https://www.chilemotos.com/moto/61260/;10980000.0;1200.0;39000.0;1000cc+;30k-50k
+Vendo Moto VSTROM 650;$4.500.000;2009.0;38550.0;650.0;https://www.chilemotos.com/moto/61232/;4500000.0;650.0;38550.0;501-1000cc;30k-50k
+2020 BMW C 400 X;$7.890.000;2020.0;700.0;350.0;https://www.chilemotos.com/moto/61228/;7890000.0;350.0;700.0;201-500cc;0-10k
+MOTO RX1;$1.800.000;2020.0;5600.0;200.0;https://www.chilemotos.com/moto/61223/;1800000.0;200.0;5600.0;0-200cc;0-10k
+Aprilia SR160 – Impecable, solo 600 km!;$1.600.000;2023.0;600.0;160.0;https://www.chilemotos.com/moto/61198/;1600000.0;160.0;600.0;0-200cc;0-10k
+Vendo moto Yamaha nmax 155;$2.750.000;2023.0;260.0;155.0;https://www.chilemotos.com/moto/61174/;2750000.0;155.0;260.0;0-200cc;0-10k
+Muy buen estado, transferible papeles válidos hasta 2025;$1.600.000;2023.0;4511.0;125.0;https://www.chilemotos.com/moto/61126/;1600000.0;125.0;4511.0;0-200cc;0-10k
+Moto BMW;$3.900.000;2021.0;17601.0;310.0;https://www.chilemotos.com/moto/61074/;3900000.0;310.0;17601.0;201-500cc;10k-30k
+Oportunidad Vendo por viaje Moto nueva Yamaha TRACER 9 GT JULIO 2024 casi sin uso solo 720 km recorridos , Moto adquirida en julio 2024 y casi no se usó por temas de traslado;$12.990.000;2024.0;720.0;889.0;https://www.chilemotos.com/moto/61004/;12990000.0;889.0;720.0;501-1000cc;0-10k
+KTM Duke 200 2015;$1.700.000;2015.0;36.0;200.0;https://www.chilemotos.com/moto/60998/;1700000.0;200.0;36.0;0-200cc;0-10k
+OPORTUNIDAD!!! vendo KAWASAKI KXF 450;$1.800.000;2014.0;-1.0;450.0;https://www.chilemotos.com/moto/60971/;1800000.0;450.0;-1.0;201-500cc;
+HONDA CRF450X año 2007 ESPECTACULAR;$2.899.997;2005.0;1000.0;450.0;https://www.chilemotos.com/moto/60868/;2899997.0;450.0;1000.0;201-500cc;0-10k
+VENDO MI MOTO ROJA;$1.600.000;2022.0;5.0;200.0;https://www.chilemotos.com/moto/60936/;1600000.0;200.0;5.0;0-200cc;0-10k
+VENDO MI MOTO;$2.400.000;2020.0;1000.0;250.0;https://www.chilemotos.com/moto/60931/;2400000.0;250.0;1000.0;201-500cc;0-10k
+Gran oportunidad, moto Yamaha FZ S año 2023 realmente nueva muy poco km 4000, además con slider protección de caídas se vende por poco uso, mantenciones al día en la marca.;$2.300.000;2023.0;4002.0;150.0;https://www.chilemotos.com/moto/60863/;2300000.0;150.0;4002.0;0-200cc;0-10k
+Vendo por no uso;$6.000.000;2021.0;15.0;499.0;https://www.chilemotos.com/moto/60845/;6000000.0;499.0;15.0;201-500cc;0-10k
+Harley Davidson 2017 breakout;$21.000.000;2017.0;26500.0;1.69;https://www.chilemotos.com/moto/60829/;21000000.0;1690.0;26500.0;1000cc+;10k-30k
+Tvs Raider 125cc 2024;$1.300.000;2024.0;515.0;125.0;https://www.chilemotos.com/moto/60781/;1300000.0;125.0;515.0;0-200cc;0-10k
+Moto casi nueva a la venta única dueña;$1.750.000;2022.0;5000.0;200.0;https://www.chilemotos.com/moto/60769/;1750000.0;200.0;5000.0;0-200cc;0-10k
+Yamaha fz 250;$2.550.000;2023.0;10.0;250.0;https://www.chilemotos.com/moto/60700/;2550000.0;250.0;10.0;201-500cc;0-10k
+Moto scooter;$1.750.000;2023.0;5700.0;150.0;https://www.chilemotos.com/moto/58063/;1750000.0;150.0;5700.0;0-200cc;0-10k
+Moto;$1.800.000;2022.0;1060.0;150.0;https://www.chilemotos.com/moto/60688/;1800000.0;150.0;1060.0;0-200cc;0-10k
+Triumph Bonneville Bobber black nueva;$9.790.000;2020.0;4000.0;1.2;https://www.chilemotos.com/moto/60679/;9790000.0;1200.0;4000.0;1000cc+;0-10k
+SUZUKI VSTROM 650 año 2018.;$6.800.000;2018.0;106000.0;650.0;https://www.chilemotos.com/moto/60675/;6800000.0;650.0;106000.0;501-1000cc;50k+
+Vendo takasaki 250 tme enduro;$1.450.000;2021.0;8.0;250.0;https://www.chilemotos.com/moto/60654/;1450000.0;250.0;8.0;201-500cc;0-10k
+Honda elite 125 cc 2021.;$1.000.000;2021.0;7000.0;125.0;https://www.chilemotos.com/moto/60645/;1000000.0;125.0;7000.0;0-200cc;0-10k
+Moto Kawasaki Versys 650 año 2010;$4.700.000;2010.0;56000.0;650.0;https://www.chilemotos.com/moto/60635/;4700000.0;650.0;56000.0;501-1000cc;50k+
+Vendo moto fz yamaha 150;$1.800.000;2023.0;8000.0;150.0;https://www.chilemotos.com/moto/57931/;1800000.0;150.0;8000.0;0-200cc;0-10k
+vendo por apuro;$5.000.000;2013.0;89000.0;800.0;https://www.chilemotos.com/moto/57933/;5000000.0;800.0;89000.0;501-1000cc;50k+
+CRF 150R;$2.600.000;2017.0;80.0;147.0;https://www.chilemotos.com/moto/57976/;2600000.0;147.0;80.0;0-200cc;0-10k
+Moto teken 250 cc único dueño;$1.700.000;2017.0;40.0;250.0;https://www.chilemotos.com/moto/58009/;1700000.0;250.0;40.0;201-500cc;0-10k
+Moto casi nueva gran oportunidad Husqvarna 250 svartpilen;$2.800.000;2021.0;4000.0;248.0;https://www.chilemotos.com/moto/58020/;2800000.0;248.0;4000.0;201-500cc;0-10k
+Suzuki gz150 2015;$1.100.000;2015.0;23500.0;150.0;https://www.chilemotos.com/moto/57785/;1100000.0;150.0;23500.0;0-200cc;10k-30k
+Venta moto XTZ150;$1.600.000;2022.0;28000.0;150.0;https://www.chilemotos.com/moto/57805/;1600000.0;150.0;28000.0;0-200cc;10k-30k
+Ktm duke 250 año 2021;$2.300.000;2021.0;40000.0;250.0;https://www.chilemotos.com/moto/57815/;2300000.0;250.0;40000.0;201-500cc;30k-50k
+TIGER GT LOW 900;$10.200;2022.0;11000.0;900.0;https://www.chilemotos.com/moto/57890/;10200000.0;900.0;11000.0;501-1000cc;10k-30k
+2024 um renegade comando;$3.100.000;2024.0;44.0;300.0;https://www.chilemotos.com/moto/57918/;3100000.0;300.0;44.0;201-500cc;0-10k
+triumph tiger 800 xc 2012;$5.000.000;2012.0;86500.0;800.0;https://www.chilemotos.com/moto/57929/;5000000.0;800.0;86500.0;501-1000cc;50k+
+VESPA VXL150;$2.900.000;2019.0;6700.0;150.0;https://www.chilemotos.com/moto/57668/;2900000.0;150.0;6700.0;0-200cc;0-10k
+MOTO CASI NUEVA;$12.500.000;2024.0;4070.0;800.0;https://www.chilemotos.com/moto/57679/;12500000.0;800.0;4070.0;501-1000cc;0-10k
+BMW 650 GS 2014 4.500 KM;$4.500.000;2014.0;-24.0;650.0;https://www.chilemotos.com/moto/57696/;4500000.0;650.0;-24.0;501-1000cc;
+Kayo tsd 110 cc;$1.090.000;2024.0;0.0;110.0;https://www.chilemotos.com/moto/57698/;1090000.0;110.0;0.0;0-200cc;
+Moto scooter electrica;$600.000;2015.0;0.0;50.0;https://www.chilemotos.com/moto/57704/;600000.0;50.0;0.0;0-200cc;
+Moto rx3;$2.100.000;2021.0;17000.0;250.0;https://www.chilemotos.com/moto/57739/;2100000.0;250.0;17000.0;201-500cc;10k-30k
+Honda Shadow Spirit 750;$6.700.000;2006.0;41000.0;748.0;https://www.chilemotos.com/moto/57759/;6700000.0;748.0;41000.0;501-1000cc;30k-50k
+Suzuki gz150 2015;$1.100.000;2015.0;23500.0;150.0;https://www.chilemotos.com/moto/57782/;1100000.0;150.0;23500.0;0-200cc;10k-30k
+Honda Storm 125;$650.000;2013.0;0.0;125.0;https://www.chilemotos.com/moto/57590/;650000.0;125.0;0.0;0-200cc;
+PULSAR RS 200;$2.600;2023.0;7200.0;200.0;https://www.chilemotos.com/moto/57432/;2600000.0;200.0;7200.0;0-200cc;0-10k
+KLR 650 – 2013 – Excelente Estado;$3.250.000;2013.0;35000.0;650.0;https://www.chilemotos.com/moto/57445/;3250000.0;650.0;35000.0;501-1000cc;30k-50k
+KTM 250 ADVENTURE ABS;$3.500.000;2023.0;5100.0;249.0;https://www.chilemotos.com/moto/57490/;3500000.0;249.0;5100.0;201-500cc;0-10k
+triumph tiger 800 xc 2012;$5.000.000;2012.0;85200.0;800.0;https://www.chilemotos.com/moto/57499/;5000000.0;800.0;85200.0;501-1000cc;50k+
+Excelente moto Enduro;$1.100.000;2022.0;19500.0;150.0;https://www.chilemotos.com/moto/57505/;1100000.0;150.0;19500.0;0-200cc;10k-30k
+Excelente moto Enduro;$1.100.000;2022.0;19500.0;150.0;https://www.chilemotos.com/moto/57507/;1100000.0;150.0;19500.0;0-200cc;10k-30k
+“Moto Corsa MG 500 2022 – Como Nueva, Top Case Incluido, Mantención Reciente”;$5.100.000;2022.0;505.0;500.0;https://www.chilemotos.com/moto/57520/;5100000.0;500.0;505.0;201-500cc;0-10k
+Vendo moto italiana;$2.800.000;2019.0;1689.0;440.0;https://www.chilemotos.com/moto/57332/;2800000.0;440.0;1689.0;201-500cc;0-10k
+Honda Cb500x 2023;$7.090.000;2023.0;7498.0;500.0;https://www.chilemotos.com/moto/57358/;7090000.0;500.0;7498.0;201-500cc;0-10k
+HONDA XR 150 L;$1.700.000;2021.0;7000.0;150.0;https://www.chilemotos.com/moto/57380/;1700000.0;150.0;7000.0;0-200cc;0-10k
+Vendo moto Honda 250 cc;$3.100.000;2024.0;110.0;250.0;https://www.chilemotos.com/moto/57389/;3100000.0;250.0;110.0;201-500cc;0-10k
+Elite FI Honda 2021 scooter 125;$1.400.000;2021.0;8900.0;125.0;https://www.chilemotos.com/moto/57396/;1400000.0;125.0;8900.0;0-200cc;0-10k
+BMW FS 750 GS 1 NEW 2024;$10.500.000;2024.0;1000.0;850.0;https://www.chilemotos.com/moto/57404/;10500000.0;850.0;1000.0;501-1000cc;0-10k
+Vendo mi regalona;$2.600.000;2021.0;28000.0;250.0;https://www.chilemotos.com/moto/57419/;2600000.0;250.0;28000.0;201-500cc;10k-30k
+Moto semi nueva;$2.200.000;2023.0;1501.0;250.0;https://www.chilemotos.com/moto/57179/;2200000.0;250.0;1501.0;201-500cc;0-10k
+YAMAHA WR250 F;$7.300.000;2024.0;0.0;250.0;https://www.chilemotos.com/moto/57188/;7300000.0;250.0;0.0;201-500cc;
+Moto triumph Tiger;$12.500.000;2022.0;27000.0;900.0;https://www.chilemotos.com/moto/57209/;12500000.0;900.0;27000.0;501-1000cc;10k-30k
+Voge 300 Rally;$2.700.000;2022.0;17000.0;300.0;https://www.chilemotos.com/moto/57238/;2700000.0;300.0;17000.0;201-500cc;10k-30k
+KTM DUKE 250 2021;$2.650.000;2021.0;28000.0;250.0;https://www.chilemotos.com/moto/57305/;2650000.0;250.0;28000.0;201-500cc;10k-30k
+Se vende moto Yamaha fz150 año 2020;$1.250.000;2020.0;30000.0;150.0;https://www.chilemotos.com/moto/57060/;1250000.0;150.0;30000.0;0-200cc;10k-30k
+Vendo mi Yamaha R15;$2.650.360;2021.0;8500.0;150.0;https://www.chilemotos.com/moto/57075/;2650360.0;150.0;8500.0;0-200cc;0-10k
+2012 Vespa GTS 300 Super;$3.800.000;2012.0;10000.0;300.0;https://www.chilemotos.com/moto/57123/;3800000.0;300.0;10000.0;201-500cc;0-10k
+Vendo moto Zonsheng RX3 250 año 2024;$3.200.000;2024.0;1800.0;250.0;https://www.chilemotos.com/moto/57126/;3200000.0;250.0;1800.0;201-500cc;0-10k
+vendo moto;$2.500.000;2022.0;11500.0;411.0;https://www.chilemotos.com/moto/57173/;2500000.0;411.0;11500.0;201-500cc;10k-30k
+Se Vende;$2.000.000;2022.0;2870.0;160.0;https://www.chilemotos.com/moto/56946/;2000000.0;160.0;2870.0;0-200cc;0-10k
+Yamaha FJR1300;$3.600.000;2007.0;31772.0;1.3;https://www.chilemotos.com/moto/56977/;3600000.0;1300.0;31772.0;1000cc+;30k-50k
+Honda Xblade 160;$1.550.000;2022.0;20000.0;160.0;https://www.chilemotos.com/moto/56996/;1550000.0;160.0;20000.0;0-200cc;10k-30k
+Se vende Versys 300X;$3.600.000;2018.0;58000.0;300.0;https://www.chilemotos.com/moto/57002/;3600000.0;300.0;58000.0;201-500cc;50k+
+Vendo moto honda;$2.900.000;2022.0;4617.0;250.0;https://www.chilemotos.com/moto/57042/;2900000.0;250.0;4617.0;201-500cc;0-10k
+Renegade soho;$1.800.000;2021.0;8900.0;150.0;https://www.chilemotos.com/moto/56852/;1800000.0;150.0;8900.0;0-200cc;0-10k
+Kawasaki ninja Z1000SX;$6.500.000;2013.0;48000.0;1.0;https://www.chilemotos.com/moto/56854/;6500000.0;1000.0;48000.0;501-1000cc;30k-50k
+Moto Guzzi V7;$5.000.000;2014.0;31000.0;750.0;https://www.chilemotos.com/moto/56892/;5000000.0;750.0;31000.0;501-1000cc;30k-50k
+Se vende Moto Yamaha XTZ 150;$2.000.000;2023.0;14500.0;150.0;https://www.chilemotos.com/moto/56894/;2000000.0;150.0;14500.0;0-200cc;10k-30k
+BMW GS 310;$3.789.999;2018.0;10000.0;310.0;https://www.chilemotos.com/moto/56900/;3789999.0;310.0;10000.0;201-500cc;0-10k
+Motorrad R 150;$2.000.000;2021.0;11129.0;150.0;https://www.chilemotos.com/moto/56934/;2000000.0;150.0;11129.0;0-200cc;10k-30k
+Honda x blade 160 año 2021;$1.200.000;2021.0;26300.0;160.0;https://www.chilemotos.com/moto/56724/;1200000.0;160.0;26300.0;0-200cc;10k-30k
+Yamaha Enticer Exelente estado;$1.000.000;2013.0;10.0;125.0;https://www.chilemotos.com/moto/56761/;1000000.0;125.0;10.0;0-200cc;0-10k
+HONDA NEW ELITE;$1.650.000;2021.0;2700.0;124.0;https://www.chilemotos.com/moto/56802/;1650000.0;124.0;2700.0;0-200cc;0-10k
+VENTA MOTO SUZUKI GZ-150 2020 CASI NUEVA (800 KM) UNICO DUEÑO;$1.800.000;2020.0;800.0;148.0;https://www.chilemotos.com/moto/56834/;1800000.0;148.0;800.0;0-200cc;0-10k
+Vendo mi Joya;$5.200.000;2010.0;112.0;699.0;https://www.chilemotos.com/moto/56644/;5200000.0;699.0;112.0;501-1000cc;0-10k
+VENTA DE MOTOCICLETA HONDA XR 150 L / 2016;$1.300.000;2016.0;122000.0;150.0;https://www.chilemotos.com/moto/56648/;1300000.0;150.0;122000.0;0-200cc;50k+
+Moto Naked muy económicaa 150;$850.000;2023.0;4500.0;150.0;https://www.chilemotos.com/moto/56650/;850000.0;150.0;4500.0;0-200cc;0-10k
+moto BMW triple black;$19;2023.0;5600.0;992.0;https://www.chilemotos.com/moto/56675/;19000000.0;992.0;5600.0;501-1000cc;0-10k
+Euromot vintage café 150cc;$1.200.000;2023.0;3766.0;150.0;https://www.chilemotos.com/moto/56678/;1200000.0;150.0;3766.0;0-200cc;0-10k
+Se vende Moto Excelente estado;$3.400.000;2021.0;-10.0;290.0;https://www.chilemotos.com/moto/56685/;3400000.0;290.0;-10.0;201-500cc;
+Vendo por recambio;$4.000.000;2012.0;70000.0;650.0;https://www.chilemotos.com/moto/56704/;4000000.0;650.0;70000.0;501-1000cc;50k+
+Honda x blade año 2021 en excelentes condiciones. La vendo por no uso.;$1.200.000;2021.0;26000.0;160.0;https://www.chilemotos.com/moto/56717/;1200000.0;160.0;26000.0;0-200cc;10k-30k
+BMW 800 GS adventure;$10.300.000;2017.0;30700.0;800.0;https://www.chilemotos.com/moto/56599/;10300000.0;800.0;30700.0;501-1000cc;30k-50k
+Moto Eléctrica Super Soco;$1.600.000;2021.0;789.0;50.0;https://www.chilemotos.com/moto/56612/;1600000.0;50.0;789.0;0-200cc;0-10k
+Yamaha;$4.500.000;2008.0;39000.0;650.0;https://www.chilemotos.com/moto/56614/;4500000.0;650.0;39000.0;501-1000cc;30k-50k
+Vendo Moto Benelli TRK 502 Asfaltica;$4.500.000;2019.0;29000.0;502.0;https://www.chilemotos.com/moto/56627/;4500000.0;502.0;29000.0;501-1000cc;10k-30k
+Moto CB190R, 2021;$2.000.000;2021.0;21000.0;190.0;https://www.chilemotos.com/moto/56629/;2000000.0;190.0;21000.0;0-200cc;10k-30k
+BMW GTL – 2013 Espectacular!;$13.990.000;2013.0;13000.0;1.6;https://www.chilemotos.com/moto/56632/;13990000.0;1600.0;13000.0;1000cc+;10k-30k
+Tenere 700 yamaha;$6.450.000;2015.0;35000.0;700.0;https://www.chilemotos.com/moto/56642/;6450000.0;700.0;35000.0;501-1000cc;30k-50k
+Leoncino 500;$2.800.000;2018.0;20000.0;500.0;https://www.chilemotos.com/moto/56547/;2800000.0;500.0;20000.0;201-500cc;10k-30k
+Vendo FZn-150;$2.150.000;2022.0;6000.0;149.0;https://www.chilemotos.com/moto/56552/;2150000.0;149.0;6000.0;0-200cc;0-10k
+YAMAHA BOLT 950;$7.000.000;2019.0;44000.0;950.0;https://www.chilemotos.com/moto/56559/;7000000.0;950.0;44000.0;501-1000cc;30k-50k
+KTM DUKE 200 NG año 2023;$2.390.000;2023.0;8863.0;200.0;https://www.chilemotos.com/moto/56561/;2390000.0;200.0;8863.0;0-200cc;0-10k
+Yamaha RAPTOR 90 cc;$2.250.000;2021.0;0.0;90.0;https://www.chilemotos.com/moto/56571/;2250000.0;90.0;0.0;0-200cc;
+Moto Gilera GP 800 año 2009;$4.399.000;2009.0;44000.0;800.0;https://www.chilemotos.com/moto/56591/;4399000.0;800.0;44000.0;501-1000cc;30k-50k
+como nueva suzuki multiproposito;$7.000.000;2022.0;60000.0;649.0;https://www.chilemotos.com/moto/56514/;7000000.0;649.0;60000.0;501-1000cc;50k+
+Vendo Moto;$5.500.000;2003.0;113000.0;1.15;https://www.chilemotos.com/moto/56520/;5500000.0;1150.0;113000.0;1000cc+;50k+
+Vendo Moto;$5.500.000;2003.0;113000.0;1.15;https://www.chilemotos.com/moto/56522/;5500000.0;1150.0;113000.0;1000cc+;50k+
+Pulsar ns 200;$1.300.000;2019.0;5000.0;200.0;https://www.chilemotos.com/moto/56541/;1300000.0;200.0;5000.0;0-200cc;0-10k
+Vendo moto hyosung;$2.800.000;2023.0;20000.0;300.0;https://www.chilemotos.com/moto/56375/;2800000.0;300.0;20000.0;201-500cc;10k-30k
+Ktm rc200, 2020 como nueva;$2.500.000;2020.0;4900.0;200.0;https://www.chilemotos.com/moto/56358/;2500000.0;200.0;4900.0;0-200cc;0-10k
+Honda CB300R;$3.200.000;2019.0;25000.0;300.0;https://www.chilemotos.com/moto/56340/;3200000.0;300.0;25000.0;201-500cc;10k-30k
+Vendo moto um renegade SPORT 300;$1.600.000;2017.0;20000.0;300.0;https://www.chilemotos.com/moto/56336/;1600000.0;300.0;20000.0;201-500cc;10k-30k
+Motocicleta Lifan k19;$1.750.000;2023.0;2550.0;200.0;https://www.chilemotos.com/moto/56328/;1750000.0;200.0;2550.0;0-200cc;0-10k
+CFMOTO 250 se;$2.650.000;2023.0;7200.0;250.0;https://www.chilemotos.com/moto/56320/;2650000.0;250.0;7200.0;201-500cc;0-10k
+Kymco Xcinting 400 cc;$2.600.000;2017.0;52000.0;400.0;https://www.chilemotos.com/moto/56311/;2600000.0;400.0;52000.0;201-500cc;50k+
+Moto Yamaha;$2.000.000;2023.0;7680.0;150.0;https://www.chilemotos.com/moto/56306/;2000000.0;150.0;7680.0;0-200cc;0-10k
+Triumph Explorer 1200 Xca 2017;$8.999.998;2017.0;56000.0;1.2;https://www.chilemotos.com/moto/56299/;8999998.0;1200.0;56000.0;1000cc+;50k+
+Honda XR 150L;$1.650.000;2019.0;6000.0;150.0;https://www.chilemotos.com/moto/56241/;1650000.0;150.0;6000.0;0-200cc;0-10k
+Honda CBR 250R 2017;$2.500.000;2017.0;4500.0;250.0;https://www.chilemotos.com/moto/56097/;2500000.0;250.0;4500.0;201-500cc;0-10k
+Vendo yamaha yz 450 fx;$4.000.000;2018.0;99999999.0;450.0;https://www.chilemotos.com/moto/56114/;4000000.0;450.0;99999999.0;201-500cc;
+Suzuki RMZ 450 cc +casco+botas;$4.200.000;2020.0;30.0;450.0;https://www.chilemotos.com/moto/56216/;4200000.0;450.0;30.0;201-500cc;0-10k
+Vendo Mi KLR650/2023;$6.800.000;2023.0;2800.0;650.0;https://www.chilemotos.com/moto/56226/;6800000.0;650.0;2800.0;501-1000cc;0-10k
+MOTO SIN USO;$5.000.000;2022.0;708.0;299.0;https://www.chilemotos.com/moto/55983/;5000000.0;299.0;708.0;201-500cc;0-10k
+vendo mi BMW 1200 GS;$12.000.000;2010.0;14800.0;1.2;https://www.chilemotos.com/moto/55988/;12000000.0;1200.0;14800.0;1000cc+;10k-30k
+Venta de Moto;$850.000;2010.0;365245.0;150.0;https://www.chilemotos.com/moto/55991/;850000.0;150.0;365245.0;0-200cc;50k+
+Vendo scooter honda dio 110cc 2022;$900;2022.0;13.0;110.0;https://www.chilemotos.com/moto/55996/;900000.0;110.0;13.0;0-200cc;0-10k
+Moto Bajaj modelo Pulsar ns160;$1.500.000;2022.0;6100.0;160.0;https://www.chilemotos.com/moto/55998/;1500000.0;160.0;6100.0;0-200cc;0-10k
+Moto bajaj;$1.999.000;2023.0;3400.0;200.0;https://www.chilemotos.com/moto/56063/;1999000.0;200.0;3400.0;0-200cc;0-10k
+Zongshen RX1;$2.100.000;2023.0;878.0;200.0;https://www.chilemotos.com/moto/55899/;2100000.0;200.0;878.0;0-200cc;0-10k
+KTM 390 ADV 2020 31.000 km;$3.900.000;2020.0;31.0;373.0;https://www.chilemotos.com/moto/55907/;3900000.0;373.0;31.0;201-500cc;0-10k
+Triumph speed triple s;$11.500.000;2016.0;30997.0;1.05;https://www.chilemotos.com/moto/55916/;11500000.0;1050.0;30997.0;1000cc+;30k-50k
+Yamaha XTZ 150;$2.000.000;2023.0;14355.0;150.0;https://www.chilemotos.com/moto/55921/;2000000.0;150.0;14355.0;0-200cc;10k-30k
+SUZUKI GSX 150;$1.900.000;2022.0;7160.0;150.0;https://www.chilemotos.com/moto/55934/;1900000.0;150.0;7160.0;0-200cc;0-10k
+vendo moto por apuro;$2.200.000;2022.0;4400.0;300.0;https://www.chilemotos.com/moto/55939/;2200000.0;300.0;4400.0;201-500cc;0-10k
+Honda crf 250r 2015 motocross;$3.550.000;2015.0;11111.0;250.0;https://www.chilemotos.com/moto/55943/;3550000.0;250.0;11111.0;201-500cc;10k-30k
+Scooter Honda impecable!;$1.600.000;2018.0;12.0;125.0;https://www.chilemotos.com/moto/55831/;1600000.0;125.0;12.0;0-200cc;0-10k
+Suzuki V-Strom DL 650 XA 2020;$8.300.000;2020.0;35999.0;649.0;https://www.chilemotos.com/moto/55845/;8300000.0;649.0;35999.0;501-1000cc;30k-50k
+Vespa VXL 150;$2.200.000;2023.0;1500.0;150.0;https://www.chilemotos.com/moto/55869/;2200000.0;150.0;1500.0;0-200cc;0-10k
+Moto Royal Enfield Meteor nueva;$3.200.000;2022.0;400.0;350.0;https://www.chilemotos.com/moto/55877/;3200000.0;350.0;400.0;201-500cc;0-10k
+Vespa Gts 300;$3.200.000;2017.0;0.0;300.0;https://www.chilemotos.com/moto/55881/;3200000.0;300.0;0.0;201-500cc;
+2018 Kawasaki Ninja ZX-10R;$5.000.000;2018.0;1694.0;998.0;https://www.chilemotos.com/moto/55895/;5000000.0;998.0;1694.0;501-1000cc;0-10k
+Ducati Multiestrada 1200 ST.;$13.500.000;2017.0;51.0;1.199;https://www.chilemotos.com/moto/55789/;13500000.0;1199.0;51.0;1000cc+;0-10k
+Venta de Motococleta en exelente estado;$6.450.000;2022.0;3500.0;500.0;https://www.chilemotos.com/moto/55799/;6450000.0;500.0;3500.0;201-500cc;0-10k
+moto lifan;$600;2023.0;7000.0;150.0;https://www.chilemotos.com/moto/55804/;600000.0;150.0;7000.0;0-200cc;0-10k
+Moto;$600.000;2023.0;7000.0;150.0;https://www.chilemotos.com/moto/55806/;600000.0;150.0;7000.0;0-200cc;0-10k
+BMW F 650 Gs 2006;$3.990.000;2006.0;69.0;650.0;https://www.chilemotos.com/moto/55823/;3990000.0;650.0;69.0;501-1000cc;0-10k
+BMW F 650 Gs;$3.990.000;2006.0;69000.0;650.0;https://www.chilemotos.com/moto/55828/;3990000.0;650.0;69000.0;501-1000cc;50k+
+Moto eléctrica;$980;2023.0;2100.0;125.0;https://www.chilemotos.com/moto/55714/;980000.0;125.0;2100.0;0-200cc;0-10k
+Honda Falcon – muy buen estado;$2.800.000;2013.0;53.0;400.0;https://www.chilemotos.com/moto/55723/;2800000.0;400.0;53.0;201-500cc;0-10k
+MOTO;$5.000.000;2022.0;6000.0;650.0;https://www.chilemotos.com/moto/55732/;5000000.0;650.0;6000.0;501-1000cc;0-10k
+Honda Falcon – muy buen estado;$2.800.000;2013.0;53000.0;400.0;https://www.chilemotos.com/moto/55740/;2800000.0;400.0;53000.0;201-500cc;50k+
+Honda CB190R 2018;$1.400.000;2018.0;18000.0;180.0;https://www.chilemotos.com/moto/55758/;1400000.0;180.0;18000.0;0-200cc;10k-30k
+Se vende moto;$2.300.000;2021.0;5318.0;200.0;https://www.chilemotos.com/moto/55768/;2300000.0;200.0;5318.0;0-200cc;0-10k
+Honda XR 190;$2.000.000;2022.0;5450.0;190.0;https://www.chilemotos.com/moto/55606/;2000000.0;190.0;5450.0;0-200cc;0-10k
+Vendo moto Honda Navi;$1.300.000;2023.0;1850.0;110.0;https://www.chilemotos.com/moto/55607/;1300000.0;110.0;1850.0;0-200cc;0-10k
+DUKE 250 7 MIL KILOMETROS;$3.200.000;2023.0;6999.0;250.0;https://www.chilemotos.com/moto/55638/;3200000.0;250.0;6999.0;201-500cc;0-10k
+KTM 390 Adventure 2022;$5.500.000;2022.0;5590.0;390.0;https://www.chilemotos.com/moto/55461/;5500000.0;390.0;5590.0;201-500cc;0-10k
+Vendo moto benelli 180 S blanca;$2;2023.0;3.0;180.0;https://www.chilemotos.com/moto/55465/;2000000.0;180.0;3.0;0-200cc;0-10k
+Moto Scotter kymco Agility Rs;$700.000;2021.0;19000.0;125.0;https://www.chilemotos.com/moto/55483/;700000.0;125.0;19000.0;0-200cc;10k-30k
+Zongshen Rx3;$2.700.000;2023.0;1600.0;250.0;https://www.chilemotos.com/moto/55537/;2700000.0;250.0;1600.0;201-500cc;0-10k
+KTM adventure 250 año 2023;$3.750.000;2023.0;1900.0;250.0;https://www.chilemotos.com/moto/55538/;3750000.0;250.0;1900.0;201-500cc;0-10k
+moto honda nc 750 x año 2019;$7;2019.0;26120.0;750.0;https://www.chilemotos.com/moto/55545/;7000000.0;750.0;26120.0;501-1000cc;10k-30k
+Bajaj pulsar Ns200;$2.550.000;2024.0;2700.0;200.0;https://www.chilemotos.com/moto/55577/;2550000.0;200.0;2700.0;0-200cc;0-10k
+TRIUMPH TIGER RALLY 900 IMPECABLE;$12.500.000;2022.0;10000.0;900.0;https://www.chilemotos.com/moto/54761/;12500000.0;900.0;10000.0;501-1000cc;0-10k
+Moto;$700.000;2020.0;16500.0;150.0;https://www.chilemotos.com/moto/54821/;700000.0;150.0;16500.0;0-200cc;10k-30k
+Honda Elit 3100 km;$599.000;2007.0;3100.0;125.0;https://www.chilemotos.com/moto/55346/;599000.0;125.0;3100.0;0-200cc;0-10k
+Honda Navi;$1.549.000;2022.0;2160.0;1.0;https://www.chilemotos.com/moto/55406/;1549000.0;1000.0;2160.0;501-1000cc;0-10k
+Bajaj pulsar RS200;$2.400.000;2022.0;10500.0;200.0;https://www.chilemotos.com/moto/55459/;2400000.0;200.0;10500.0;0-200cc;10k-30k
+Vendo F GS 750 año 2021;$7.500.000;2021.0;15300.0;853.0;https://www.chilemotos.com/moto/54670/;7500000.0;853.0;15300.0;501-1000cc;10k-30k
+PULSAR 150 2023;$1.250.000;2023.0;6588.0;1.495;https://www.chilemotos.com/moto/54689/;1250000.0;1495.0;6588.0;1000cc+;0-10k
+Loncin 125 cc 2021 lx76A;$570.000;2021.0;270000.0;125.0;https://www.chilemotos.com/moto/54705/;570000.0;125.0;270000.0;0-200cc;50k+
+Vendo mi moto casi nueva en perfectas condiciones;$1.500.000;2024.0;618.0;250.0;https://www.chilemotos.com/moto/54714/;1500000.0;250.0;618.0;201-500cc;0-10k
+Vendo moto Yamaha XTZ 150 año 2022;$2;2022.0;1.0;150.0;https://www.chilemotos.com/moto/54729/;2000000.0;150.0;1.0;0-200cc;0-10k
+ktm 390 adventure;$4.100.000;2021.0;19.0;390.0;https://www.chilemotos.com/moto/54735/;4100000.0;390.0;19.0;201-500cc;0-10k
+2022 Yamaha MT03 Nueva 147 km;$5.100.000;2022.0;147.0;319.0;https://www.chilemotos.com/moto/53963/;5100000.0;319.0;147.0;201-500cc;0-10k
+Moto Benelli 752s;$5.500.000;2022.0;5000.0;754.0;https://www.chilemotos.com/moto/54592/;5500000.0;754.0;5000.0;501-1000cc;0-10k
+Vendo yamaha FZN 2.0 150cc en perfectas condiciones;$1.700.000;2022.0;6000.0;150.0;https://www.chilemotos.com/moto/54595/;1700000.0;150.0;6000.0;0-200cc;0-10k
+vendo mi moto urgente por viaje;$2.000.000;2023.0;8500.0;200.0;https://www.chilemotos.com/moto/54618/;2000000.0;200.0;8500.0;0-200cc;0-10k
+Corsa N335;$2.000.000;2022.0;8499.0;330.0;https://www.chilemotos.com/moto/54624/;2000000.0;330.0;8499.0;201-500cc;0-10k
+Moto;$2.500.000;2012.0;0.0;250.0;https://www.chilemotos.com/moto/54634/;2500000.0;250.0;0.0;201-500cc;
+vendo Moto Regal Raptor;$950.000;2016.0;18000.0;150.0;https://www.chilemotos.com/moto/54645/;950000.0;150.0;18000.0;0-200cc;10k-30k
+Aprilia SR MAX 300cc año 2017;$3.499.999;2017.0;11650.0;298.0;https://www.chilemotos.com/moto/53887/;3499999.0;298.0;11650.0;201-500cc;10k-30k
+RX3s – Zongshen;$3.200.000;2022.0;10500.0;400.0;https://www.chilemotos.com/moto/53893/;3200000.0;400.0;10500.0;201-500cc;10k-30k
+TVS Apache RTR 200;$1.300.000;2023.0;2500.0;200.0;https://www.chilemotos.com/moto/53930/;1300000.0;200.0;2500.0;0-200cc;0-10k
+Venta de Moto con todo su Equipo;$4.700.000;2013.0;95.0;800.0;https://www.chilemotos.com/moto/53938/;4700000.0;800.0;95.0;501-1000cc;0-10k
+401 Svartpilen – 32,000 kms –;$5.500.000;2021.0;32000.0;373.0;https://www.chilemotos.com/moto/53941/;5500000.0;373.0;32000.0;201-500cc;30k-50k
+Se vende BMW conversable;$6.000.000;2024.0;0.0;313.0;https://www.chilemotos.com/moto/53956/;6000000.0;313.0;0.0;201-500cc;
+Yamaha FZN 150;$1.600.000;2021.0;4276.0;150.0;https://www.chilemotos.com/moto/53744/;1600000.0;150.0;4276.0;0-200cc;0-10k
+Se vende BMW sertao 650cc;$4.500.000;2012.0;79000.0;650.0;https://www.chilemotos.com/moto/53758/;4500000.0;650.0;79000.0;501-1000cc;50k+
+Yamaha raptor 700;$7.500.000;2022.0;0.0;700.0;https://www.chilemotos.com/moto/53781/;7500000.0;700.0;0.0;501-1000cc;
+Oferta única;$1.100.000;2022.0;1080.0;125.0;https://www.chilemotos.com/moto/53788/;1100000.0;125.0;1080.0;0-200cc;0-10k
+Oferta única;$1.100.000;2022.0;1078.0;125.0;https://www.chilemotos.com/moto/53790/;1100000.0;125.0;1078.0;0-200cc;0-10k
+2016 Honda Falcon nx 400;$2.400.000;2016.0;62.0;400.0;https://www.chilemotos.com/moto/53445/;2400000.0;400.0;62.0;201-500cc;0-10k
+VENDO MOTO KEEWAY RK 150 CASI NUEVA;$900;2022.0;60.0;150.0;https://www.chilemotos.com/moto/53447/;900000.0;150.0;60.0;0-200cc;0-10k
+Se vende Yamaha en perfecto estado;$950.000;2021.0;12800.0;125.0;https://www.chilemotos.com/moto/53501/;950000.0;125.0;12800.0;0-200cc;10k-30k
+Moto eléctrica de 800w y batería 60v 20ah + 2 cascos;$600.000;2019.0;0.0;50.0;https://www.chilemotos.com/moto/53542/;600000.0;50.0;0.0;0-200cc;
+Moto zongshen 150 cc Enduro;$1.550.000;2008.0;5000.0;150.0;https://www.chilemotos.com/moto/53647/;1550000.0;150.0;5000.0;0-200cc;0-10k
+2023 Honda Crf-450r;$5.500;2023.0;1.0;450.0;https://www.chilemotos.com/moto/53705/;5500000.0;450.0;1.0;201-500cc;0-10k
+Oferta única;$1.100.000;2022.0;1080.0;125.0;https://www.chilemotos.com/moto/53735/;1100000.0;125.0;1080.0;0-200cc;0-10k
+CF MOTO 400 /2022;$3.000.000;2022.0;13.0;399.0;https://www.chilemotos.com/moto/53234/;3000000.0;399.0;13.0;201-500cc;0-10k
+MOTO HONDA CB 190 R ROJA;$2.000.000;2021.0;4500.0;184.0;https://www.chilemotos.com/moto/53400/;2000000.0;184.0;4500.0;0-200cc;0-10k
+Venta FZS Yamaha 2022;$2.000.000;2022.0;6100.0;150.0;https://www.chilemotos.com/moto/53422/;2000000.0;150.0;6100.0;0-200cc;0-10k
+Vendo moto Keeway 150 casi nueva 60 km.;$900;2022.0;59.0;150.0;https://www.chilemotos.com/moto/53442/;900000.0;150.0;59.0;0-200cc;0-10k
+VENDO MOTO KEEWAY 150 CASI NUEVA;$900;2022.0;60.0;150.0;https://www.chilemotos.com/moto/53444/;900000.0;150.0;60.0;0-200cc;0-10k
+KTM RC 200;$2.000.000;2017.0;27000.0;200.0;https://www.chilemotos.com/moto/53047/;2000000.0;200.0;27000.0;0-200cc;10k-30k
+Venta de moto;$1.280.000;2021.0;0.0;125.0;https://www.chilemotos.com/moto/53061/;1280000.0;125.0;0.0;0-200cc;
+Vendo Moto seminueva;$750.000;2022.0;5000.0;1.0;https://www.chilemotos.com/moto/53110/;750000.0;1000.0;5000.0;501-1000cc;0-10k
+vendo moto pulsar Bajaj 200ns año 2023;$2.000.000;2022.0;43.0;200.0;https://www.chilemotos.com/moto/53142/;2000000.0;200.0;43.0;0-200cc;0-10k
+vendo espectacular moto, practicamente nueva;$20.000.000;2020.0;18000.0;1.6;https://www.chilemotos.com/moto/53208/;20000000.0;1600.0;18000.0;1000cc+;10k-30k
+2020 Yamaha Nmax 155;$2.250.000;2020.0;3450.0;155.0;https://www.chilemotos.com/moto/52947/;2250000.0;155.0;3450.0;0-200cc;0-10k
+Se vende espectacular moto al día;$6.900.000;2016.0;48000.0;950.0;https://www.chilemotos.com/moto/52965/;6900000.0;950.0;48000.0;501-1000cc;30k-50k
+Kawasaki KLX250 Excelente 8000 km;$2.500.000;2010.0;8200.0;250.0;https://www.chilemotos.com/moto/52988/;2500000.0;250.0;8200.0;201-500cc;0-10k
+2018 Honda GL1800D;$4.900.000;2018.0;11900.0;1.833;https://www.chilemotos.com/moto/52991/;4900000.0;1833.0;11900.0;1000cc+;10k-30k
+Suzuki GSXR 150;$2.800.000;2022.0;2900.0;150.0;https://www.chilemotos.com/moto/53010/;2800000.0;150.0;2900.0;0-200cc;0-10k
+Moto Honda cb500x adventur;$4.400.000;2016.0;36000.0;500.0;https://www.chilemotos.com/moto/53033/;4400000.0;500.0;36000.0;201-500cc;30k-50k
+Keeway K light 202 año 2022;$1.700.000;2022.0;7850.0;200.0;https://www.chilemotos.com/moto/53042/;1700000.0;200.0;7850.0;0-200cc;0-10k
+Honda CRF250L 2019 (con muchas extras);$3.100.000;2019.0;38500.0;250.0;https://www.chilemotos.com/moto/52795/;3100000.0;250.0;38500.0;201-500cc;30k-50k
+Honda CRF250L 2019 (con muchas extras);$3.100.000;2019.0;38500.0;250.0;https://www.chilemotos.com/moto/52805/;3100000.0;250.0;38500.0;201-500cc;30k-50k
+Vendo moto excelente estado;$23;2020.0;17000.0;1.65;https://www.chilemotos.com/moto/52911/;23000000.0;1650.0;17000.0;1000cc+;10k-30k
+Vendo moto yamaha xjr 1300;$8.500.000;2001.0;45000.0;1.3;https://www.chilemotos.com/moto/52932/;8500000.0;1300.0;45000.0;1000cc+;30k-50k
+venta moto Aprilia, modelo Pegaso 650, año 2010 impecable;$365.000;2010.0;104200.0;650.0;https://www.chilemotos.com/moto/52935/;365000.0;650.0;104200.0;501-1000cc;50k+
+Vendo mi consentida;$1.500.000;2022.0;13500.0;200.0;https://www.chilemotos.com/moto/52939/;1500000.0;200.0;13500.0;0-200cc;10k-30k
+SUZUKI GSXR150;$3.000.000;2020.0;9420.0;150.0;https://www.chilemotos.com/moto/52654/;3000000.0;150.0;9420.0;0-200cc;0-10k
+Moto Yamaha XVS 950A;$5.500.000;2011.0;83231.0;800.0;https://www.chilemotos.com/moto/52664/;5500000.0;800.0;83231.0;501-1000cc;50k+
+DOMINAR 400 2022;$2.800.000;2022.0;10800.0;400.0;https://www.chilemotos.com/moto/52730/;2800000.0;400.0;10800.0;201-500cc;10k-30k
+HYOSUN GT 650 R;$3.999.999;2014.0;11000.0;650.0;https://www.chilemotos.com/moto/52731/;3999999.0;650.0;11000.0;501-1000cc;10k-30k
+Vendo KTM Duke 250 por subida de Cilindraje;$3.100.000;2022.0;10.0;250.0;https://www.chilemotos.com/moto/52733/;3100000.0;250.0;10.0;201-500cc;0-10k
+Honda cb 190;$1.500.000;2021.0;29000.0;190.0;https://www.chilemotos.com/moto/52747/;1500000.0;190.0;29000.0;0-200cc;10k-30k
+Yamaha MT03A año 2022;$4.300.000;2022.0;12000.0;321.0;https://www.chilemotos.com/moto/52785/;4300000.0;321.0;12000.0;201-500cc;10k-30k
+KTM EXC ENDURO 260HR;$4.200.000;2015.0;260.0;449.0;https://www.chilemotos.com/moto/52534/;4200000.0;449.0;260.0;201-500cc;0-10k
+VENDO MOTO NMAX 155;$2.800.000;2022.0;3100.0;155.0;https://www.chilemotos.com/moto/52539/;2800000.0;155.0;3100.0;0-200cc;0-10k
+Se Vende Suzuki GSX250R;$2.800.000;2019.0;38000.0;250.0;https://www.chilemotos.com/moto/52564/;2800000.0;250.0;38000.0;201-500cc;30k-50k
+Euromoto Vintage Cafe 150 cc;$1.000.000;2022.0;1800.0;150.0;https://www.chilemotos.com/moto/52597/;1000000.0;150.0;1800.0;0-200cc;0-10k
+Moto scooter;$1.200.000;2023.0;10.0;149.0;https://www.chilemotos.com/moto/52601/;1200000.0;149.0;10.0;0-200cc;0-10k
+Se vende moto Yamaha fzx;$2.100.000;2023.0;1300.0;1.5;https://www.chilemotos.com/moto/52622/;2100000.0;1500.0;1300.0;1000cc+;0-10k
+SE VENDE MOTO SEMI NUEVA POR APURO;$2.300.000;2023.0;5600.0;250.0;https://www.chilemotos.com/moto/52425/;2300000.0;250.0;5600.0;201-500cc;0-10k
+honda Cb 300 R;$3.300.000;2019.0;33612.0;300.0;https://www.chilemotos.com/moto/52428/;3300000.0;300.0;33612.0;201-500cc;30k-50k
+Kawasaki vulcan classic 900;$10.500.000;2022.0;180.0;900.0;https://www.chilemotos.com/moto/52450/;10500000.0;900.0;180.0;501-1000cc;0-10k
+Vendo moto por viaje;$4.500.000;2023.0;3200.0;650.0;https://www.chilemotos.com/moto/52497/;4500000.0;650.0;3200.0;501-1000cc;0-10k
+Oportunidad único dueño;$4.500.000;2023.0;3200.0;650.0;https://www.chilemotos.com/moto/52500/;4500000.0;650.0;3200.0;501-1000cc;0-10k
+Se vende moto, por no uso;$1.200.000;2023.0;56.0;150.0;https://www.chilemotos.com/moto/52527/;1200000.0;150.0;56.0;0-200cc;0-10k
+UM Renegade 200 Limited;$1.200.000;2014.0;195000.0;200.0;https://www.chilemotos.com/moto/52288/;1200000.0;200.0;195000.0;0-200cc;50k+
+Vendo hermosa fjr1300;$9.000.000;2011.0;86000.0;1.3;https://www.chilemotos.com/moto/52310/;9000000.0;1300.0;86000.0;1000cc+;50k+
+Honda Cbr250 en venta por apuro;$1.200.000;2014.0;37000.0;250.0;https://www.chilemotos.com/moto/52328/;1200000.0;250.0;37000.0;201-500cc;30k-50k
+Vendo Moto;$2.600.000;2021.0;5000.0;350.0;https://www.chilemotos.com/moto/52347/;2600000.0;350.0;5000.0;201-500cc;0-10k
+Moto Honda XR190L, año 2022;$2.350.000;2022.0;1837.0;190.0;https://www.chilemotos.com/moto/52373/;2350000.0;190.0;1837.0;0-200cc;0-10k
+KTM ADVENTURE 390 2024;$6.000.000;2023.0;5000.0;373.0;https://www.chilemotos.com/moto/52399/;6000000.0;373.0;5000.0;201-500cc;0-10k
+Moto Zongshen RX3S 400;$3.450.000;2021.0;3600.0;400.0;https://www.chilemotos.com/moto/52409/;3450000.0;400.0;3600.0;201-500cc;0-10k
+vendo moto;$1.700.000;2021.0;13991.0;200.0;https://www.chilemotos.com/moto/52170/;1700000.0;200.0;13991.0;0-200cc;10k-30k
+ZONGSHEN ZSR 150;$700.000;2018.0;29000.0;150.0;https://www.chilemotos.com/moto/52173/;700000.0;150.0;29000.0;0-200cc;10k-30k
+Zontes ZT155-G1 2022;$2.400.000;2021.0;20800.0;155.0;https://www.chilemotos.com/moto/52194/;2400000.0;155.0;20800.0;0-200cc;10k-30k
+ZONGSHEN ZSR 150;$650.000;2018.0;29000.0;150.0;https://www.chilemotos.com/moto/52242/;650000.0;150.0;29000.0;0-200cc;10k-30k
+Moto usada;$560;2019.0;273.0;125.0;https://www.chilemotos.com/moto/52251/;560000.0;125.0;273.0;0-200cc;0-10k
+Vendo mi Moto por upgrade 🙂;$6.500.000;2020.0;19981.0;500.0;https://www.chilemotos.com/moto/52075/;6500000.0;500.0;19981.0;201-500cc;10k-30k
+Vendo Moto Suzuki Gixxer Fi 150;$2.000.000;2022.0;1849.0;150.0;https://www.chilemotos.com/moto/52114/;2000000.0;150.0;1849.0;0-200cc;0-10k
+Vendo Moto Aprilia modelo Pegaso 650cc;$3.990.000;2009.0;27000.0;650.0;https://www.chilemotos.com/moto/52125/;3990000.0;650.0;27000.0;501-1000cc;10k-30k
+Yamaha 250 fx;$4.000.000;2016.0;100.0;250.0;https://www.chilemotos.com/moto/51961/;4000000.0;250.0;100.0;201-500cc;0-10k
+África Twin;$5.200.000;2001.0;102000.0;750.0;https://www.chilemotos.com/moto/51968/;5200000.0;750.0;102000.0;501-1000cc;50k+
+Moto Houje KA 150cc;$1.163.999;2021.0;59000.0;150.0;https://www.chilemotos.com/moto/51974/;1163999.0;150.0;59000.0;0-200cc;50k+
+Yamaha FZ 250 2018;$1.390.000;2018.0;27500.0;250.0;https://www.chilemotos.com/moto/51999/;1390000.0;250.0;27500.0;201-500cc;10k-30k
+Honda xr150l año 2022;$1.600.000;2022.0;56000.0;150.0;https://www.chilemotos.com/moto/52010/;1600000.0;150.0;56000.0;0-200cc;50k+
+HARLEY-DAVIDSON 2022 Street bob 114;$19.000.000;2022.0;1900.0;1.868;https://www.chilemotos.com/moto/52028/;19000000.0;1868.0;1900.0;1000cc+;0-10k
+Moto Yamaha roja FZ con alforjas y cascos;$1.500.000;2016.0;5000.0;150.0;https://www.chilemotos.com/moto/52046/;1500000.0;150.0;5000.0;0-200cc;0-10k
+honda xr;$1.000.000;2023.0;26800.0;125.0;https://www.chilemotos.com/moto/51779/;1000000.0;125.0;26800.0;0-200cc;10k-30k
+Harley-davidson;$8.250.000;2010.0;26919.0;900.0;https://www.chilemotos.com/moto/51818/;8250000.0;900.0;26919.0;501-1000cc;10k-30k
+Se vende moto;$2.800.000;2023.0;12000.0;310.0;https://www.chilemotos.com/moto/51826/;2800000.0;310.0;12000.0;201-500cc;10k-30k
+YZ 125 AÑO 2023;$6.000.000;2023.0;0.0;125.0;https://www.chilemotos.com/moto/51849/;6000000.0;125.0;0.0;0-200cc;
+suzuki gz150;$1.400.000;2020.0;16000.0;149.0;https://www.chilemotos.com/moto/51864/;1400000.0;149.0;16000.0;0-200cc;10k-30k
+Moto Casi Nueva;$1.249.999;2022.0;8.0;150.0;https://www.chilemotos.com/moto/51766/;1249999.0;150.0;8.0;0-200cc;0-10k
+venta moto honda CB500X;$5.500.000;2015.0;17000.0;500.0;https://www.chilemotos.com/moto/51772/;5500000.0;500.0;17000.0;201-500cc;10k-30k
+Voge rally 300;$2.850.000;2022.0;5000.0;300.0;https://www.chilemotos.com/moto/51742/;2850000.0;300.0;5000.0;201-500cc;0-10k
+TRIUMPH STREET TRIPLE 675;$4.800.000;2015.0;57000.0;675.0;https://www.chilemotos.com/moto/51705/;4800000.0;675.0;57000.0;501-1000cc;50k+
+Dominar Adventure 400cc;$3.250.000;2023.0;4500.0;400.0;https://www.chilemotos.com/moto/51691/;3250000.0;400.0;4500.0;201-500cc;0-10k
+Vendo moto;$750;2023.0;6000.0;150.0;https://www.chilemotos.com/moto/51684/;750000.0;150.0;6000.0;0-200cc;0-10k
+KTM Adventure 390 abs;$4.800.000;2021.0;6884.0;373.0;https://www.chilemotos.com/moto/51667/;4800000.0;373.0;6884.0;201-500cc;0-10k
+Moto BMW k 1600 GTL;$9.500.000;2011.0;45.0;1.6;https://www.chilemotos.com/moto/51634/;9500000.0;1600.0;45.0;1000cc+;0-10k
+Benelli 302s, año 2023;$4.000.000;2023.0;3800.0;302.0;https://www.chilemotos.com/moto/51490/;4000000.0;302.0;3800.0;201-500cc;0-10k
+Aprilia etx 150cc 2018;$800.000;2018.0;40000.0;150.0;https://www.chilemotos.com/moto/50541/;800000.0;150.0;40000.0;0-200cc;30k-50k
+Benelli 752 S;$5.999.999;2022.0;7997.0;750.0;https://www.chilemotos.com/moto/50548/;5999999.0;750.0;7997.0;501-1000cc;0-10k
+KTM RC200 ABS 2023;$3.650.000;2023.0;7059.0;200.0;https://www.chilemotos.com/moto/50603/;3650000.0;200.0;7059.0;0-200cc;0-10k
+Vendo moto corsa n335cc;$2.200.000;2022.0;10000.0;335.0;https://www.chilemotos.com/moto/50640/;2200000.0;335.0;10000.0;201-500cc;0-10k
+Vendo Kawasaki versys;$4.800.000;2015.0;74000.0;650.0;https://www.chilemotos.com/moto/50669/;4800000.0;650.0;74000.0;501-1000cc;50k+
+Vendo moto por no uso;$1.900.000;2022.0;3020.0;335.0;https://www.chilemotos.com/moto/51253/;1900000.0;335.0;3020.0;201-500cc;0-10k
+Regal raptor Pilder 400;$2.800.000;2022.0;6100.0;400.0;https://www.chilemotos.com/moto/50425/;2800000.0;400.0;6100.0;201-500cc;0-10k
+Wangye Matrix 150, 2019;$800;2019.0;6500.0;149.0;https://www.chilemotos.com/moto/50427/;800000.0;149.0;6500.0;0-200cc;0-10k
+HYOSUNG GD250N EXVID 2016;$2.200.000;2016.0;16860.0;250.0;https://www.chilemotos.com/moto/50465/;2200000.0;250.0;16860.0;201-500cc;10k-30k
+HONDA ELITE 125 NUEVA SIN USO;$1.499.955;2021.0;55.0;125.0;https://www.chilemotos.com/moto/50474/;1499955.0;125.0;55.0;0-200cc;0-10k
+Vendo Moto Yamaha FZN;$1.300.000;2021.0;45000.0;150.0;https://www.chilemotos.com/moto/50507/;1300000.0;150.0;45000.0;0-200cc;30k-50k
+Vendo moto HONDA CB500X;$4.900.000;2017.0;48000.0;500.0;https://www.chilemotos.com/moto/50522/;4900000.0;500.0;48000.0;201-500cc;30k-50k
+Motorrad Racer 250RR;$1.500.000;2015.0;2248.0;250.0;https://www.chilemotos.com/moto/50537/;1500000.0;250.0;2248.0;201-500cc;0-10k
+Vendo excelente maquina;$6.200.000;2012.0;22998.0;1.0;https://www.chilemotos.com/moto/50295/;6200000.0;1000.0;22998.0;501-1000cc;10k-30k
+Triumph Trident 660 2023;$7.000.000;2023.0;8200.0;658.0;https://www.chilemotos.com/moto/50348/;7000000.0;658.0;8200.0;501-1000cc;0-10k
+Moto Aprillia SXR 160;$1.500.000;2022.0;100.0;160.0;https://www.chilemotos.com/moto/50360/;1500000.0;160.0;100.0;0-200cc;0-10k
+Moto Aprillia SXR 160;$1.500.000;2022.0;100.0;160.0;https://www.chilemotos.com/moto/50363/;1500000.0;160.0;100.0;0-200cc;0-10k
+Vendo moto HONDA CB500X;$5.000.000;2017.0;47500.0;500.0;https://www.chilemotos.com/moto/50423/;5000000.0;500.0;47500.0;201-500cc;30k-50k
+Honda repsol 190r;$1.250.000;2018.0;22400.0;190.0;https://www.chilemotos.com/moto/50143/;1250000.0;190.0;22400.0;0-200cc;10k-30k
+Motocicleta lifan enduro 150;$1.050.000;2023.0;10045.0;150.0;https://www.chilemotos.com/moto/50196/;1050000.0;150.0;10045.0;0-200cc;10k-30k
+ktm 390;$5.000.000;2021.0;1202.0;390.0;https://www.chilemotos.com/moto/50265/;5000000.0;390.0;1202.0;201-500cc;0-10k
+MOTO HONDA CB1 TUF;$1.200.000;2019.0;490.0;125.0;https://www.chilemotos.com/moto/50276/;1200000.0;125.0;490.0;0-200cc;0-10k
+Vendo Moto Yamaha;$1.250.000;2021.0;410000.0;150.0;https://www.chilemotos.com/moto/50293/;1250000.0;150.0;410000.0;0-200cc;50k+
+Honda XR 190L;$2.600;2022.0;2900.0;190.0;https://www.chilemotos.com/moto/50068/;2600000.0;190.0;2900.0;0-200cc;0-10k
+Moto Honda Xblade 160 año 2022;$1.590.000;2022.0;5800.0;162.0;https://www.chilemotos.com/moto/50079/;1590000.0;162.0;5800.0;0-200cc;0-10k
+Aprovechar excelente kawasaki KLR 650 impecable;$3.700.000;2014.0;69999.0;650.0;https://www.chilemotos.com/moto/50083/;3700000.0;650.0;69999.0;501-1000cc;50k+
+2016;$950.000;2016.0;48300.0;150.0;https://www.chilemotos.com/moto/50111/;950000.0;150.0;48300.0;0-200cc;30k-50k
+Moto Suzuki Scrambler;$2.300.000;2016.0;5980.0;115.0;https://www.chilemotos.com/moto/50119/;2300000.0;115.0;5980.0;0-200cc;0-10k
+Vendo Suzuki Vtrom 650cc , año2012;$5.300.000;2012.0;69000.0;650.0;https://www.chilemotos.com/moto/50132/;5300000.0;650.0;69000.0;501-1000cc;50k+
+Versys X300 ABS;$5.190.000;2023.0;4500.0;300.0;https://www.chilemotos.com/moto/49953/;5190000.0;300.0;4500.0;201-500cc;0-10k
+Suzuki intruder 150;$2.300.000;2022.0;10600.0;150.0;https://www.chilemotos.com/moto/49962/;2300000.0;150.0;10600.0;0-200cc;10k-30k
+Vendo moto;$700.000;2019.0;7800.0;125.0;https://www.chilemotos.com/moto/49964/;700000.0;125.0;7800.0;0-200cc;0-10k
+Vendo mi honda xr150;$1.500.000;2021.0;8000.0;150.0;https://www.chilemotos.com/moto/49973/;1500000.0;150.0;8000.0;0-200cc;0-10k
+Moto scooter;$1.100.000;2023.0;76.0;125.0;https://www.chilemotos.com/moto/50033/;1100000.0;125.0;76.0;0-200cc;0-10k
+Se vende moto Pulsar;$1.300.000;2021.0;29000.0;150.0;https://www.chilemotos.com/moto/50038/;1300000.0;150.0;29000.0;0-200cc;10k-30k
+SE VENDE KPR200 0KM;$1.990.000;2023.0;0.0;200.0;https://www.chilemotos.com/moto/50065/;1990000.0;200.0;0.0;0-200cc;
+Vendo KTM RC 390 2023;$5.450.000;2023.0;1234.0;390.0;https://www.chilemotos.com/moto/49813/;5450000.0;390.0;1234.0;201-500cc;0-10k
+2023 Bajaj Dominar;$3.799.997;2023.0;2465.0;400.0;https://www.chilemotos.com/moto/49837/;3799997.0;400.0;2465.0;201-500cc;0-10k
+Triumph Trident 660 2022;$6.200.000;2022.0;3520.0;660.0;https://www.chilemotos.com/moto/49845/;6200000.0;660.0;3520.0;501-1000cc;0-10k
+Vendo por no uso;$1.400.000;2021.0;7000.0;150.0;https://www.chilemotos.com/moto/49861/;1400000.0;150.0;7000.0;0-200cc;0-10k
+Vintage café un mes de uso;$1.100.000;2023.0;1050.0;150.0;https://www.chilemotos.com/moto/49905/;1100000.0;150.0;1050.0;0-200cc;0-10k
+Suzuki SV650A 2022;$5.900.000;2022.0;22000.0;650.0;https://www.chilemotos.com/moto/49914/;5900000.0;650.0;22000.0;501-1000cc;10k-30k
+CF Moto 150NK;$1.700.000;2021.0;30.0;150.0;https://www.chilemotos.com/moto/49930/;1700000.0;150.0;30.0;0-200cc;0-10k
+Yamaha Fzn 150;$1.500.000;2022.0;22000.0;150.0;https://www.chilemotos.com/moto/49729/;1500000.0;150.0;22000.0;0-200cc;10k-30k
+Moto Honda XR 150;$1.600.000;2021.0;9700.0;149.0;https://www.chilemotos.com/moto/49763/;1600000.0;149.0;9700.0;0-200cc;0-10k
+KAWASAKI KXF 450;$4.390.000;2018.0;0.0;450.0;https://www.chilemotos.com/moto/49771/;4390000.0;450.0;0.0;201-500cc;
+Kawasaki KX 450 – Perfecto estado;$4.350.000;2017.0;0.0;450.0;https://www.chilemotos.com/moto/49779/;4350000.0;450.0;0.0;201-500cc;
+VENDO SUSUKI GSX-R 2023 150CC;$2.700.000;2023.0;6800.0;150.0;https://www.chilemotos.com/moto/49795/;2700000.0;150.0;6800.0;0-200cc;0-10k
+VENDO HONDA XRE 300;$4.200.000;2020.0;2600.0;300.0;https://www.chilemotos.com/moto/49806/;4200000.0;300.0;2600.0;201-500cc;0-10k
+KTM RC 390 2023;$5.400.000;2023.0;1234.0;390.0;https://www.chilemotos.com/moto/49808/;5400000.0;390.0;1234.0;201-500cc;0-10k
+Moto Honda XR 150;$1.600.000;2021.0;279.0;150.0;https://www.chilemotos.com/moto/49645/;1600000.0;150.0;279.0;0-200cc;0-10k
+Motos Honda 150XR;$1.600.000;2021.0;9700.0;149.0;https://www.chilemotos.com/moto/49650/;1600000.0;149.0;9700.0;0-200cc;0-10k
+MOTO HONDA XR 150;$1.599.999;2021.0;9699.0;149.0;https://www.chilemotos.com/moto/49660/;1599999.0;149.0;9699.0;0-200cc;0-10k
+Moto Honda XR 150;$1.599.999;2021.0;9700.0;149.0;https://www.chilemotos.com/moto/49663/;1599999.0;149.0;9700.0;0-200cc;0-10k
+CF NK400;$3.200.000;2022.0;7000.0;400.0;https://www.chilemotos.com/moto/49686/;3200000.0;400.0;7000.0;201-500cc;0-10k
+Oferton;$3.200.000;2022.0;7000.0;400.0;https://www.chilemotos.com/moto/49689/;3200000.0;400.0;7000.0;201-500cc;0-10k
+Honda Xr150l 2018;$1.500.000;2018.0;3740.0;150.0;https://www.chilemotos.com/moto/49715/;1500000.0;150.0;3740.0;0-200cc;0-10k
+2 MOTOS HONDA XR 150;$1.600.000;2021.0;283.0;147.0;https://www.chilemotos.com/moto/49609/;1600000.0;147.0;283.0;0-200cc;0-10k
+MOTOS HONDA XR 150;$1.600.000;2021.0;283.0;150.0;https://www.chilemotos.com/moto/49613/;1600000.0;150.0;283.0;0-200cc;0-10k
+MOTOS HONDA XR 150;$1.600.000;2021.0;277.0;150.0;https://www.chilemotos.com/moto/49616/;1600000.0;150.0;277.0;0-200cc;0-10k
+MOTOS HONDA XR 150;$1.600.000;2021.0;280.0;150.0;https://www.chilemotos.com/moto/49623/;1600000.0;150.0;280.0;0-200cc;0-10k
+MOTO HONDA XR 150;$1.600.000;2021.0;280.0;150.0;https://www.chilemotos.com/moto/49626/;1600000.0;150.0;280.0;0-200cc;0-10k
+Moto Honda XR150;$1.600.000;2021.0;280.0;150.0;https://www.chilemotos.com/moto/49629/;1600000.0;150.0;280.0;0-200cc;0-10k
+Moto Honda XR 150;$1.600.000;2021.0;279.0;150.0;https://www.chilemotos.com/moto/49635/;1600000.0;150.0;279.0;0-200cc;0-10k
+Honda twister 2022 con 1230 km;$1.350.000;2022.0;1236.0;125.0;https://www.chilemotos.com/moto/49496/;1350000.0;125.0;1236.0;0-200cc;0-10k
+Honda twister 2022 con 1230 km;$1.350.000;2022.0;1232.0;125.0;https://www.chilemotos.com/moto/49498/;1350000.0;125.0;1232.0;0-200cc;0-10k
+SUZUKI gsxs 750;$8.600.000;2020.0;32000.0;750.0;https://www.chilemotos.com/moto/49550/;8600000.0;750.0;32000.0;501-1000cc;30k-50k
+honda transalp xlv 650;$4.000.000;2008.0;58500.0;650.0;https://www.chilemotos.com/moto/49557/;4000000.0;650.0;58500.0;501-1000cc;50k+
+Moto Zontes T310 T2 Adventure;$3.300.000;2020.0;29.0;310.0;https://www.chilemotos.com/moto/49587/;3300000.0;310.0;29.0;201-500cc;0-10k
+Vendo moto fz25 año 2023;$2.900.000;2023.0;7222.0;250.0;https://www.chilemotos.com/moto/49600/;2900000.0;250.0;7222.0;201-500cc;0-10k
+Me venden;$7;2016.0;42142.0;800.0;https://www.chilemotos.com/moto/49452/;7000000.0;800.0;42142.0;501-1000cc;30k-50k
+Honda Xblade 160 2022;$1.500.000;2022.0;8000.0;160.0;https://www.chilemotos.com/moto/49453/;1500000.0;160.0;8000.0;0-200cc;0-10k
+Vespa LX 150 3v ie Touring 2014;$3.000.000;2014.0;3900.0;150.0;https://www.chilemotos.com/moto/49467/;3000000.0;150.0;3900.0;0-200cc;0-10k
+Matorrad MT 25;$1.250.000;2022.0;8039.0;250.0;https://www.chilemotos.com/moto/49487/;1250000.0;250.0;8039.0;201-500cc;0-10k
+Pulsar NS160 Bajaj;$2.099.998;2020.0;6179.0;160.0;https://www.chilemotos.com/moto/49490/;2099998.0;160.0;6179.0;0-200cc;0-10k
+Honda twister 2022 con 1230 km;$1.350.000;2022.0;1232.0;125.0;https://www.chilemotos.com/moto/49493/;1350000.0;125.0;1232.0;0-200cc;0-10k
+Xr190l;$1.500.000;2021.0;310000.0;190.0;https://www.chilemotos.com/moto/49302/;1500000.0;190.0;310000.0;0-200cc;50k+
+Vendo bajaj pulsar ns200;$1.700.000;2021.0;13327.0;200.0;https://www.chilemotos.com/moto/49310/;1700000.0;200.0;13327.0;0-200cc;10k-30k
+Suzuki Gixxer 150cc.;$2.200.000;2022.0;8900.0;150.0;https://www.chilemotos.com/moto/49339/;2200000.0;150.0;8900.0;0-200cc;0-10k
+Oferta Suzuki Gixxer 150cc;$1.850.000;2022.0;8900.0;150.0;https://www.chilemotos.com/moto/49343/;1850000.0;150.0;8900.0;0-200cc;0-10k
+BENELLI TNT 250 cc;$1.550.000;2016.0;21800.0;250.0;https://www.chilemotos.com/moto/49369/;1550000.0;250.0;21800.0;201-500cc;10k-30k
+Se vende ktm duke250;$3.200.000;2023.0;1900.0;250.0;https://www.chilemotos.com/moto/49419/;3200000.0;250.0;1900.0;201-500cc;0-10k
+honda cb500xa 2018;$5.500.000;2018.0;19420.0;500.0;https://www.chilemotos.com/moto/49441/;5500000.0;500.0;19420.0;201-500cc;10k-30k
+Euromot vintage cafe;$1.000.000;2021.0;7200.0;150.0;https://www.chilemotos.com/moto/49197/;1000000.0;150.0;7200.0;0-200cc;0-10k
+Yamaha r15v3;$2.200.000;2022.0;7000.0;155.0;https://www.chilemotos.com/moto/49218/;2200000.0;155.0;7000.0;0-200cc;0-10k
+Honda Nc750x 2022 16.000km;$7.900.000;2022.0;16100.0;750.0;https://www.chilemotos.com/moto/49233/;7900000.0;750.0;16100.0;501-1000cc;10k-30k
+Yamaha XT 600 E;$4.250.000;2003.0;55999.0;599.0;https://www.chilemotos.com/moto/49234/;4250000.0;599.0;55999.0;501-1000cc;50k+
+Dominar 250;$2.500.000;2021.0;25000.0;250.0;https://www.chilemotos.com/moto/49245/;2500000.0;250.0;25000.0;201-500cc;10k-30k
+KTM DUKE 250/ 2022 Nueva de fabrica.;$3.500.000;2022.0;3.0;250.0;https://www.chilemotos.com/moto/49254/;3500000.0;250.0;3.0;201-500cc;0-10k
+Lifan Sienna 150cc;$1.200.000;2020.0;3100.0;150.0;https://www.chilemotos.com/moto/49279/;1200000.0;150.0;3100.0;0-200cc;0-10k
+Euromot Rex 150 2023 160 kilometros;$850.000;2022.0;160.0;150.0;https://www.chilemotos.com/moto/49055/;850000.0;150.0;160.0;0-200cc;0-10k
+Moto Zongshen Rapid 125;$850.000;2019.0;40.0;125.0;https://www.chilemotos.com/moto/49056/;850000.0;125.0;40.0;0-200cc;0-10k
+Honda twister 2022 con 1230 km;$1.450.000;2022.0;1235.0;125.0;https://www.chilemotos.com/moto/49063/;1450000.0;125.0;1235.0;0-200cc;0-10k
+Yamaha fzn 150;$1.700.000;2022.0;5450.0;150.0;https://www.chilemotos.com/moto/49086/;1700000.0;150.0;5450.0;0-200cc;0-10k
+Vendo moto;$2.000.000;2021.0;19397.0;150.0;https://www.chilemotos.com/moto/49107/;2000000.0;150.0;19397.0;0-200cc;10k-30k
+Moto Scooter Honda New Elite 125;$1.600.000;2022.0;52.0;124.0;https://www.chilemotos.com/moto/49113/;1600000.0;124.0;52.0;0-200cc;0-10k
+Loncin Lx250GY-3f enduro. Solo 486 klm.;$1.200.000;2023.0;486.0;250.0;https://www.chilemotos.com/moto/49140/;1200000.0;250.0;486.0;201-500cc;0-10k
+Se vende moto KTM Duke 250 año 2021;$1.700.000;2021.0;12124.0;250.0;https://www.chilemotos.com/moto/48931/;1700000.0;250.0;12124.0;201-500cc;10k-30k
+Honda Crossrunner;$6.100.000;2012.0;43000.0;800.0;https://www.chilemotos.com/moto/48961/;6100000.0;800.0;43000.0;501-1000cc;30k-50k
+Se vende moto takazaki;$800;2023.0;7640.0;150.0;https://www.chilemotos.com/moto/48980/;800000.0;150.0;7640.0;0-200cc;0-10k
+Moto Honda Crf450r;$4.300.000;2016.0;0.0;4.5;https://www.chilemotos.com/moto/49024/;4300000.0;4500.0;0.0;1000cc+;
+Yamaha R15 2015;$1.850.000;2014.0;22000.0;149.0;https://www.chilemotos.com/moto/49028/;1850000.0;149.0;22000.0;0-200cc;10k-30k
+BMW GS F800 Adventure;$11.000.000;2018.0;24000.0;800.0;https://www.chilemotos.com/moto/48754/;11000000.0;800.0;24000.0;501-1000cc;10k-30k
+Vendo Pulsar N250;$2.650.000;2023.0;967.0;250.0;https://www.chilemotos.com/moto/48757/;2650000.0;250.0;967.0;201-500cc;0-10k
+Moto Honda;$1.400.000;2021.0;861.0;125.0;https://www.chilemotos.com/moto/48770/;1400000.0;125.0;861.0;0-200cc;0-10k
+Yamaha FZN-150 2022;$1.650.000;2021.0;4500.0;148.0;https://www.chilemotos.com/moto/48806/;1650000.0;148.0;4500.0;0-200cc;0-10k
+Susuki Gixxer SF;$2.600.000;2023.0;1700.0;155.0;https://www.chilemotos.com/moto/48821/;2600000.0;155.0;1700.0;0-200cc;0-10k
+KTM DUKE 250;$2.800.000;2022.0;4500.0;250.0;https://www.chilemotos.com/moto/48835/;2800000.0;250.0;4500.0;201-500cc;0-10k
+Mt10 2017;$9.150.000;2017.0;70000.0;1.0;https://www.chilemotos.com/moto/48857/;9150000.0;1000.0;70000.0;501-1000cc;50k+
+Vendo moto de nieve;$9.000.000;2011.0;68.0;800.0;https://www.chilemotos.com/moto/48610/;9000000.0;800.0;68.0;501-1000cc;0-10k
+Venta Moto Haojue KA;$1.000.000;2022.0;4377.0;149.0;https://www.chilemotos.com/moto/48612/;1000000.0;149.0;4377.0;0-200cc;0-10k
+kawasaki ninja 250;$2.100.000;2009.0;0.0;250.0;https://www.chilemotos.com/moto/48679/;2100000.0;250.0;0.0;201-500cc;
+MT03A año 2022;$4.599.000;2022.0;8000.0;321.0;https://www.chilemotos.com/moto/48713/;4599000.0;321.0;8000.0;201-500cc;0-10k
+Vendo moto;$1.150.000;2022.0;3100.0;125.0;https://www.chilemotos.com/moto/48723/;1150000.0;125.0;3100.0;0-200cc;0-10k
+Honda xr 150 2016;$1.300.000;2016.0;10696.0;150.0;https://www.chilemotos.com/moto/48448/;1300000.0;150.0;10696.0;0-200cc;10k-30k
+Vendo por renovación;$1.800.000;2021.0;33.0;190.0;https://www.chilemotos.com/moto/48483/;1800000.0;190.0;33.0;0-200cc;0-10k
+BMW GS310 2019;$4;2019.0;44000.0;313.0;https://www.chilemotos.com/moto/48491/;4000000.0;313.0;44000.0;201-500cc;30k-50k
+Haojue NK 150;$1.200.000;2021.0;9500.0;150.0;https://www.chilemotos.com/moto/48493/;1200000.0;150.0;9500.0;0-200cc;0-10k
+moto zongshen rx3;$3.000.000;2019.0;15580.0;250.0;https://www.chilemotos.com/moto/48526/;3000000.0;250.0;15580.0;201-500cc;10k-30k
+Moto motorrad 2023;$1.800.000;2023.0;1112.0;150.0;https://www.chilemotos.com/moto/48185/;1800000.0;150.0;1112.0;0-200cc;0-10k
+Moto BMW F 700 GS motor 800 cc año 2018 impecable;$8.000.000;2018.0;50000.0;800.0;https://www.chilemotos.com/moto/48308/;8000000.0;800.0;50000.0;501-1000cc;30k-50k
+KAWASAKI BRUTE FORCE 300;$4.900.000;2021.0;270.0;300.0;https://www.chilemotos.com/moto/48335/;4900000.0;300.0;270.0;201-500cc;0-10k
+TVS RTR 200 FI 4V 2022;$2.000.000;2022.0;160.0;198.0;https://www.chilemotos.com/moto/48352/;2000000.0;198.0;160.0;0-200cc;0-10k
+Moto Lifan tb125;$650.000;2020.0;17500.0;125.0;https://www.chilemotos.com/moto/48420/;650000.0;125.0;17500.0;0-200cc;10k-30k
+KTM Duke 250 2018;$2.550.000;2017.0;8550.0;250.0;https://www.chilemotos.com/moto/47964/;2550000.0;250.0;8550.0;201-500cc;0-10k
+YAMAHA R3A 2022;$4.900.000;2022.0;8900.0;321.0;https://www.chilemotos.com/moto/47974/;4900000.0;321.0;8900.0;201-500cc;0-10k
+Moto de agua;$4.890.000;2000.0;0.0;1.2;https://www.chilemotos.com/moto/47976/;4890000.0;1200.0;0.0;1000cc+;
+Voge 300ds;$3.000.000;2021.0;7000.0;300.0;https://www.chilemotos.com/moto/48110/;3000000.0;300.0;7000.0;201-500cc;0-10k
+YAMAHA MT 03 2018 2.000 KM;$4.100.000;2018.0;2380.0;321.0;https://www.chilemotos.com/moto/48163/;4100000.0;321.0;2380.0;201-500cc;0-10k
+2021 Lifan kpt 200;$2.100.000;2021.0;8600.0;200.0;https://www.chilemotos.com/moto/48168/;2100000.0;200.0;8600.0;0-200cc;0-10k
+Suzuki Vstrom 1000;$7.800.000;2016.0;68900.0;1.0;https://www.chilemotos.com/moto/47898/;7800000.0;1000.0;68900.0;501-1000cc;50k+
+Muy poco uso;$1.800.000;2023.0;500.0;190.0;https://www.chilemotos.com/moto/47924/;1800000.0;190.0;500.0;0-200cc;0-10k
+kimco agility 16+ 200i modelo 2021;$1.600.000;2021.0;5000.0;200.0;https://www.chilemotos.com/moto/47931/;1600000.0;200.0;5000.0;0-200cc;0-10k
+Honda CRF 450RL;$3.200.000;2021.0;5186.0;449.0;https://www.chilemotos.com/moto/47937/;3200000.0;449.0;5186.0;201-500cc;0-10k
+Vendo moto scooters 150cc marca matrix;$800;2021.0;21000.0;150.0;https://www.chilemotos.com/moto/47943/;800000.0;150.0;21000.0;0-200cc;10k-30k
+YAMAHA MT 03 A;$5.000.000;2022.0;7000.0;321.0;https://www.chilemotos.com/moto/47957/;5000000.0;321.0;7000.0;201-500cc;0-10k
+YAMAHA MT 03 A;$5.000.000;2022.0;7000.0;321.0;https://www.chilemotos.com/moto/47960/;5000000.0;321.0;7000.0;201-500cc;0-10k
+Moto Honda CB 190 R;$1.800.000;2022.0;8000.0;190.0;https://www.chilemotos.com/moto/47820/;1800000.0;190.0;8000.0;0-200cc;0-10k
+Vendo moto honda cb1 tuff 125cc;$800.000;2021.0;4600.0;125.0;https://www.chilemotos.com/moto/47834/;800000.0;125.0;4600.0;0-200cc;0-10k
+BMW R1200GS Adventure K25;$11.000.000;2012.0;70.0;1.2;https://www.chilemotos.com/moto/47839/;11000000.0;1200.0;70.0;1000cc+;0-10k
+Vendo moto;$2.250.000;2020.0;3300.0;250.0;https://www.chilemotos.com/moto/47849/;2250000.0;250.0;3300.0;201-500cc;0-10k
+TAKASAKI A9 150 CC. 381 KM. 2019;$1.100.000;2019.0;381.0;150.0;https://www.chilemotos.com/moto/47858/;1100000.0;150.0;381.0;0-200cc;0-10k
+Xr 250 tornado;$1.500.000;2009.0;48000.0;250.0;https://www.chilemotos.com/moto/47880/;1500000.0;250.0;48000.0;201-500cc;30k-50k
+Se vende Moto Ns 200 Fi;$1.900.000;2022.0;20884.0;198.0;https://www.chilemotos.com/moto/47888/;1900000.0;198.0;20884.0;0-200cc;10k-30k
+Vendo Kawasaki Versys 650 2013;$4.500.000;2013.0;35000.0;649.0;https://www.chilemotos.com/moto/47891/;4500000.0;649.0;35000.0;501-1000cc;30k-50k
+Vendo moto keeway K-light 202;$1.400.000;2021.0;7347.0;200.0;https://www.chilemotos.com/moto/47285/;1400000.0;200.0;7347.0;0-200cc;0-10k
+Yamaha V Star;$3.200.000;2008.0;19909.0;1.299;https://www.chilemotos.com/moto/47786/;3200000.0;1299.0;19909.0;1000cc+;10k-30k
+Yamaha XJ6N;$5.700.000;2012.0;16950.0;600.0;https://www.chilemotos.com/moto/47804/;5700000.0;600.0;16950.0;501-1000cc;10k-30k
+KTM 1290 Super Adventure R;$18.500.000;2022.0;7819.0;1.289;https://www.chilemotos.com/moto/47815/;18500000.0;1289.0;7819.0;1000cc+;0-10k
+Vendo moto Yamaha fz 150;$1.500.000;2020.0;11800.0;150.0;https://www.chilemotos.com/moto/47232/;1500000.0;150.0;11800.0;0-200cc;10k-30k
+Venta Inazuma S impecable;$2.500.000;2016.0;28501.0;250.0;https://www.chilemotos.com/moto/47215/;2500000.0;250.0;28501.0;201-500cc;10k-30k
+kawasaki;$3.900.002;2023.0;172.0;230.0;https://www.chilemotos.com/moto/47196/;3900002.0;230.0;172.0;201-500cc;0-10k
+YAMAHA CYGNUS z;$650;2020.0;28.0;125.0;https://www.chilemotos.com/moto/47162/;650000.0;125.0;28.0;0-200cc;0-10k
+Yamaha xtz 150;$2.100.000;2021.0;8200.0;150.0;https://www.chilemotos.com/moto/47144/;2100000.0;150.0;8200.0;0-200cc;0-10k
+Moto Yamaha 2021;$1;2021.0;10000.0;125.0;https://www.chilemotos.com/moto/47105/;1000000.0;125.0;10000.0;0-200cc;0-10k
+ktm exc 125 2012;$2.600.000;2012.0;0.0;125.0;https://www.chilemotos.com/moto/47066/;2600000.0;125.0;0.0;0-200cc;
+Moto Honda V-Men;$1.100.000;2010.0;7400.0;125.0;https://www.chilemotos.com/moto/47019/;1100000.0;125.0;7400.0;0-200cc;0-10k
+Moto Honda Xblade 160cc;$1.900.000;2022.0;360.0;160.0;https://www.chilemotos.com/moto/47005/;1900000.0;160.0;360.0;0-200cc;0-10k
+VENDO MI MOTO;$1.700.000;2022.0;2500.0;150.0;https://www.chilemotos.com/moto/46993/;1700000.0;150.0;2500.0;0-200cc;0-10k
+Se vende moto Keeway;$1.800.000;2022.0;17000.0;200.0;https://www.chilemotos.com/moto/46984/;1800000.0;200.0;17000.0;0-200cc;10k-30k
+YAMAHA MT09 2021 EN PERFECTO ESTADO Y PAPELES AL DÍA;$9.200.000;2021.0;28000.0;900.0;https://www.chilemotos.com/moto/58043/;9200000.0;900.0;28000.0;501-1000cc;10k-30k
+BMW G310 GS;$4.200.000;2021.0;16180.0;310.0;https://www.chilemotos.com/moto/58075/;4200000.0;310.0;16180.0;201-500cc;10k-30k
+Keeway rk 150;$750;2021.0;5.0;150.0;https://www.chilemotos.com/moto/58057/;750000.0;150.0;5.0;0-200cc;0-10k
+CF Moto 700 CLX 2023;$4.100.000;2023.0;28.0;693.0;https://www.chilemotos.com/moto/58059/;4100000.0;693.0;28.0;501-1000cc;0-10k
+CF moto 650 GT 2022;$4.500.000;2022.0;6300.0;650.0;https://www.chilemotos.com/moto/58050/;4500000.0;650.0;6300.0;501-1000cc;0-10k
+Vendo Moto deportiva por NO uso;$2.500.000;2021.0;2900.0;335.0;https://www.chilemotos.com/moto/58037/;2500000.0;335.0;2900.0;201-500cc;0-10k
+KTM 390 DUKE;$5.300.000;2024.0;1800.0;399.0;https://www.chilemotos.com/moto/58029/;5300000.0;399.0;1800.0;201-500cc;0-10k
+Triumph Tiger Adventure XCA 1.200 cc 2020 SIN detalles;$14.900.000;2020.0;31.0;1.2;https://www.chilemotos.com/moto/58025/;14900000.0;1200.0;31.0;1000cc+;0-10k
+Vendo scooter por motivo de viaje;$1.600.000;2021.0;10700.0;125.0;https://www.chilemotos.com/moto/58002/;1600000.0;125.0;10700.0;0-200cc;10k-30k
+dominar 400 adv;$2.900.000;2023.0;31000.0;400.0;https://www.chilemotos.com/moto/57970/;2900000.0;400.0;31000.0;201-500cc;30k-50k
+Honda CB500X 2020 impecable. Único dueño;$5.990.000;2020.0;9700.0;500.0;https://www.chilemotos.com/moto/57957/;5990000.0;500.0;9700.0;201-500cc;0-10k
+Vendo Zongshen RX3 de 400cc;$2.200.000;2022.0;34500.0;400.0;https://www.chilemotos.com/moto/57932/;2200000.0;400.0;34500.0;201-500cc;30k-50k
+Moto BMW GS 1200 – 2016;$12.750.000;2016.0;58.0;1.2;https://www.chilemotos.com/moto/57905/;12750000.0;1200.0;58.0;1000cc+;0-10k
+Vendo Moto en Muy Buen Estado, Mantenciones y documentostos al dia;$2.700.000;2021.0;29505.0;310.0;https://www.chilemotos.com/moto/57896/;2700000.0;310.0;29505.0;201-500cc;10k-30k
+TIGER GT LOW 900;$10.200.000;2022.0;12000.0;900.0;https://www.chilemotos.com/moto/57892/;10200000.0;900.0;12000.0;501-1000cc;10k-30k
+Honda Shadow 150 cc;$1.200.000;2020.0;24500.0;150.0;https://www.chilemotos.com/moto/57873/;1200000.0;150.0;24500.0;0-200cc;10k-30k
+Yamaha FZ250;$2.500.000;2023.0;3000.0;250.0;https://www.chilemotos.com/moto/57857/;2500000.0;250.0;3000.0;201-500cc;0-10k
+Bmw f650 gs dakar 2007;$4.050.000;2007.0;50000.0;650.0;https://www.chilemotos.com/moto/57841/;4050000.0;650.0;50000.0;501-1000cc;30k-50k
+SOLO 100 KM , 2 USOS, BMW F750 2023;$9.750.000;2023.0;100.0;750.0;https://www.chilemotos.com/moto/57821/;9750000.0;750.0;100.0;501-1000cc;0-10k
+Vendo moto Vespa VXL 150 CC;$2.000.000;2020.0;0.0;150.0;https://www.chilemotos.com/moto/57801/;2000000.0;150.0;0.0;0-200cc;
+Vendo moto con muy poco kilometraje;$3.600.000;2020.0;10.0;300.0;https://www.chilemotos.com/moto/57790/;3600000.0;300.0;10.0;201-500cc;0-10k
+Vendo Moto ZONTES ZT155-U1;$1.890.000;2022.0;1200.0;155.0;https://www.chilemotos.com/moto/57763/;1890000.0;155.0;1200.0;0-200cc;0-10k
+BMW G310 GS;$4.800.000;2022.0;681.0;310.0;https://www.chilemotos.com/moto/57741/;4800000.0;310.0;681.0;201-500cc;0-10k
+Yamaha Nmax 155;$1.750.000;2021.0;26500.0;155.0;https://www.chilemotos.com/moto/57725/;1750000.0;155.0;26500.0;0-200cc;10k-30k
+Benelli TNTi150 2024;$1.499.999;2024.0;2900.0;150.0;https://www.chilemotos.com/moto/57715/;1499999.0;150.0;2900.0;0-200cc;0-10k
+Moto scooter electrica;$550.000;2015.0;0.0;50.0;https://www.chilemotos.com/moto/57710/;550000.0;50.0;0.0;0-200cc;
+MOTO CASI NUEVA;$12.500.000;2024.0;4070.0;850.0;https://www.chilemotos.com/moto/57682/;12500000.0;850.0;4070.0;501-1000cc;0-10k
+VESPA VXL150;$2.900.000;2019.0;6700.0;150.0;https://www.chilemotos.com/moto/57671/;2900000.0;150.0;6700.0;0-200cc;0-10k
+Moto lifan scooter vendo por motivos de viaje sin multas con mantenimientos recién en buen estado bien cuidada solo WhatsApp o correo;$800.000;2024.0;10000.0;150.0;https://www.chilemotos.com/moto/57660/;800000.0;150.0;10000.0;0-200cc;0-10k
+Vendo moto Yamaha impecable;$2.000;2024.0;19000.0;150.0;https://www.chilemotos.com/moto/57654/;2000000.0;150.0;19000.0;0-200cc;10k-30k
+Venta de NK 150CC;$1.750.000;2021.0;7826.0;150.0;https://www.chilemotos.com/moto/57650/;1750000.0;150.0;7826.0;0-200cc;0-10k
+Honda Nc750x;$6.000.000;2019.0;40000.0;750.0;https://www.chilemotos.com/moto/57644/;6000000.0;750.0;40000.0;501-1000cc;30k-50k
+Kawasaki Z650;$6.600.000;2019.0;7400.0;650.0;https://www.chilemotos.com/moto/57614/;6600000.0;650.0;7400.0;501-1000cc;0-10k
+Vendo por cambio de cilindrada;$2.990.000;2023.0;4000.0;400.0;https://www.chilemotos.com/moto/57602/;2990000.0;400.0;4000.0;201-500cc;0-10k
+Venta de Moto;$1.000.000;2021.0;3000.0;125.0;https://www.chilemotos.com/moto/57562/;1000000.0;125.0;3000.0;0-200cc;0-10k
+Yamaha Fz 3.0;$1.900.000;2022.0;19600.0;150.0;https://www.chilemotos.com/moto/57565/;1900000.0;150.0;19600.0;0-200cc;10k-30k
+Vendo por renovación;$4.700.000;2016.0;47735.0;650.0;https://www.chilemotos.com/moto/57544/;4700000.0;650.0;47735.0;501-1000cc;30k-50k
+“Moto Corsa MG 500 2022 – Como Nueva, Top Case Incluido, Mantención Reciente”;$5.100.000;2022.0;505.0;500.0;https://www.chilemotos.com/moto/57529/;5100000.0;500.0;505.0;201-500cc;0-10k
+Vendo moto Honda Cb190r;$2.200.000;2023.0;13400.0;1.9;https://www.chilemotos.com/moto/57516/;2200000.0;1900.0;13400.0;1000cc+;10k-30k
+Yamaha Vstar 250cc, con muchos extras y barata!!!!Full cuidado.;$3.300.000;2012.0;38000.0;250.0;https://www.chilemotos.com/moto/57468/;3300000.0;250.0;38000.0;201-500cc;30k-50k
+Moto Eléctrica Dayi E-odin 2.0 – 3200 Km + Accesorios;$3.500.000;2022.0;3200.0;150.0;https://www.chilemotos.com/moto/57451/;3500000.0;150.0;3200.0;0-200cc;0-10k
+Preciosa Moto BMW 2017;$4.200.000;2017.0;22500.0;313.0;https://www.chilemotos.com/moto/57435/;4200000.0;313.0;22500.0;201-500cc;10k-30k
+Vendo zongshen rx3;$2.600.000;2021.0;28000.0;250.0;https://www.chilemotos.com/moto/57421/;2600000.0;250.0;28000.0;201-500cc;10k-30k
+Moto R15 v3;$2.650.000;2021.0;30.0;150.0;https://www.chilemotos.com/moto/57406/;2650000.0;150.0;30.0;0-200cc;0-10k
+Se vende Honda CB 125F Twister;$950.000;2022.0;25.0;125.0;https://www.chilemotos.com/moto/57398/;950000.0;125.0;25.0;0-200cc;0-10k
+Vendo mi Moto Loncin color Blanco nueva (sin uso).;$2.450.000;2023.0;31.0;250.0;https://www.chilemotos.com/moto/57369/;2450000.0;250.0;31.0;201-500cc;0-10k
+Vendo moto en excelentes condiciones;$8.000.000;2019.0;13.0;900.0;https://www.chilemotos.com/moto/57337/;8000000.0;900.0;13.0;501-1000cc;0-10k
+Venta Honda Navy;$1.100.000;2022.0;736.0;100.0;https://www.chilemotos.com/moto/57336/;1100000.0;100.0;736.0;0-200cc;0-10k
+LIFAN KPF150 | LF150-10F;$1.350.000;2023.0;10.0;150.0;https://www.chilemotos.com/moto/57307/;1350000.0;150.0;10.0;0-200cc;0-10k
+Moto semi nueva;$2.200.000;2023.0;1514.0;250.0;https://www.chilemotos.com/moto/57232/;2200000.0;250.0;1514.0;201-500cc;0-10k
+Gran oportunidad moto 0 kilometros;$3.700.000;2021.0;0.0;310.0;https://www.chilemotos.com/moto/57167/;3700000.0;310.0;0.0;201-500cc;
+Moto Aprilia 2008 (excelente estado);$3.100.000;2008.0;19700.0;660.0;https://www.chilemotos.com/moto/57158/;3100000.0;660.0;19700.0;501-1000cc;10k-30k
+Vendo moto BMW G310 GS;$3.800.000;2019.0;36.0;310.0;https://www.chilemotos.com/moto/57135/;3800000.0;310.0;36.0;201-500cc;0-10k
+Vendo Benelli TRK 251;$3.800.000;2021.0;9000.0;250.0;https://www.chilemotos.com/moto/57139/;3800000.0;250.0;9000.0;201-500cc;0-10k
+Yamaha XTZ 150-2 2023;$1.700.000;2023.0;7700.0;150.0;https://www.chilemotos.com/moto/57100/;1700000.0;150.0;7700.0;0-200cc;0-10k
+TTX 250 2021 en Concepción | Se vende Moto TTX 250 marca Motorrad en excelente estado;$1.350.000;2021.0;18490.0;250.0;https://www.chilemotos.com/moto/57089/;1350000.0;250.0;18490.0;201-500cc;10k-30k
+YAMAHA SUPER TENNERE 1200NUEVA EQUIPADA 500 KM.;$16.750.000;2023.0;535.0;1.2;https://www.chilemotos.com/moto/57082/;16750000.0;1200.0;535.0;1000cc+;0-10k
+Vendo Dominar 250 por no uso;$2.500.000;2022.0;5000.0;250.0;https://www.chilemotos.com/moto/57078/;2500000.0;250.0;5000.0;201-500cc;0-10k
+Excelente oportunidad;$2.900.000;2022.0;6417.0;250.0;https://www.chilemotos.com/moto/57053/;2900000.0;250.0;6417.0;201-500cc;0-10k
+Pulsar Ns 200 181KM / 2024!;$2.350.000;2024.0;181.0;200.0;https://www.chilemotos.com/moto/57017/;2350000.0;200.0;181.0;0-200cc;0-10k
+BMW F 800;$8;2013.0;15200.0;800.0;https://www.chilemotos.com/moto/57013/;8000000.0;800.0;15200.0;501-1000cc;10k-30k
+Honda Xblade 160;$1.550.000;2022.0;20000.0;159.0;https://www.chilemotos.com/moto/56998/;1550000.0;159.0;20000.0;0-200cc;10k-30k
+Zontes zt310x, 2020 perfecto estado;$2.600.000;2020.0;15956.0;310.0;https://www.chilemotos.com/moto/56986/;2600000.0;310.0;15956.0;201-500cc;10k-30k
+Yamaha R3 2020 con accesorios;$4.750.000;2020.0;9500.0;300.0;https://www.chilemotos.com/moto/56929/;4750000.0;300.0;9500.0;201-500cc;0-10k
+BMW GS1200 Adventure II;$14.500.000;2019.0;46500.0;1.2;https://www.chilemotos.com/moto/56923/;14500000.0;1200.0;46500.0;1000cc+;30k-50k
+Yamaha yz 85 2023;$3.450.000;2023.0;60.0;85.0;https://www.chilemotos.com/moto/56919/;3450000.0;85.0;60.0;0-200cc;0-10k
+Vendo FZ25;$2.400.000;2022.0;7500.0;250.0;https://www.chilemotos.com/moto/56908/;2400000.0;250.0;7500.0;201-500cc;0-10k
+Yamaha midnight 950 cc;$7.300.000;2014.0;56000.0;950.0;https://www.chilemotos.com/moto/56886/;7300000.0;950.0;56000.0;501-1000cc;50k+
+Honda CB500X 2017;$4.800.000;2017.0;21500.0;500.0;https://www.chilemotos.com/moto/56864/;4800000.0;500.0;21500.0;201-500cc;10k-30k
+Bajaj Dominar 250;$2.400.000;2021.0;12400.0;250.0;https://www.chilemotos.com/moto/56860/;2400000.0;250.0;12400.0;201-500cc;10k-30k
+Royal Enfield Meteor 350 Supernova 2024;$3.200.000;2024.0;4800.0;349.0;https://www.chilemotos.com/moto/56848/;3200000.0;349.0;4800.0;201-500cc;0-10k
+Yamaha Bolt 950;$7.200.000;2016.0;46.0;950.0;https://www.chilemotos.com/moto/56839/;7200000.0;950.0;46.0;501-1000cc;0-10k
+Por cambio de cilindrada;$4.800.000;2023.0;5700.0;500.0;https://www.chilemotos.com/moto/56816/;4800000.0;500.0;5700.0;201-500cc;0-10k
+Giler Runner VX200 Impecable;$1.700.000;2008.0;1000.0;200.0;https://www.chilemotos.com/moto/56811/;1700000.0;200.0;1000.0;0-200cc;0-10k
+BMW F850 GS I prácticamente nueva;$12.500.000;2024.0;2100.0;850.0;https://www.chilemotos.com/moto/56785/;12500000.0;850.0;2100.0;501-1000cc;0-10k
+Yamaha Enticer Papeles al Dia;$900.000;2013.0;10000.0;125.0;https://www.chilemotos.com/moto/56763/;900000.0;125.0;10000.0;0-200cc;0-10k
+vendo moto zontes;$3.400.000;2023.0;3000.0;312.0;https://www.chilemotos.com/moto/56756/;3400000.0;312.0;3000.0;201-500cc;0-10k
+Vendo por no uso;$5.000.000;2017.0;43944.0;500.0;https://www.chilemotos.com/moto/56745/;5000000.0;500.0;43944.0;201-500cc;30k-50k
+Moto Vintage 700 cc;$7.590.000;2024.0;0.0;700.0;https://www.chilemotos.com/moto/56739/;7590000.0;700.0;0.0;501-1000cc;
+Se vende Moto Excelente estado;$3.500.000;2021.0;9999.0;289.0;https://www.chilemotos.com/moto/56691/;3500000.0;289.0;9999.0;201-500cc;0-10k
+Pulsar 200ns fi ABS, por no uso;$1.600.000;2021.0;31000.0;200.0;https://www.chilemotos.com/moto/56662/;1600000.0;200.0;31000.0;0-200cc;30k-50k
+Excelente Triumph speed 400 en venta por cambio a trail;$4.200.000;2024.0;5500.0;400.0;https://www.chilemotos.com/moto/56621/;4200000.0;400.0;5500.0;201-500cc;0-10k
+Gilera gp800 2009;$4.399.000;2009.0;44000.0;800.0;https://www.chilemotos.com/moto/56594/;4399000.0;800.0;44000.0;501-1000cc;30k-50k
+Se vende prácticamente nueva;$1.550.000;2023.0;1220.0;150.0;https://www.chilemotos.com/moto/56573/;1550000.0;150.0;1220.0;0-200cc;0-10k
+BMW F850 GS Triple Black;$11.500.000;2024.0;2500.0;850.0;https://www.chilemotos.com/moto/56555/;11500000.0;850.0;2500.0;501-1000cc;0-10k
+Vendo Moto;$5.500.000;2003.0;113000.0;1.15;https://www.chilemotos.com/moto/56528/;5500000.0;1150.0;113000.0;1000cc+;50k+
+Kawasaki vulcan Nomad 1700cc año 2012;$12.000.000;2012.0;74000.0;1.7;https://www.chilemotos.com/moto/56497/;12000000.0;1700.0;74000.0;1000cc+;50k+
+Honda Shadow 150 Nueva;$1.800.000;2023.0;0.0;150.0;https://www.chilemotos.com/moto/56492/;1800000.0;150.0;0.0;0-200cc;
+Honda xblade 160 impecable;$1.850.000;2022.0;400.0;160.0;https://www.chilemotos.com/moto/56477/;1850000.0;160.0;400.0;0-200cc;0-10k
+Moto Yamaha YBR 125 Z;$1.500.000;2021.0;213.0;125.0;https://www.chilemotos.com/moto/56470/;1500000.0;125.0;213.0;0-200cc;0-10k
+Harley Davidson Pan America special S 2022 Negra;$21.500.000;2022.0;19125.0;1.25;https://www.chilemotos.com/moto/56455/;21500000.0;1250.0;19125.0;1000cc+;10k-30k
+2023 Triumph Tiger 900 Gt Pro;$12.000.000;2023.0;1000.0;900.0;https://www.chilemotos.com/moto/56445/;12000000.0;900.0;1000.0;501-1000cc;0-10k
+Moto suzuki gixxer fi 150;$1.200.000;2017.0;42300.0;150.0;https://www.chilemotos.com/moto/56439/;1200000.0;150.0;42300.0;0-200cc;30k-50k
+Liquido yamaha yz450fx;$3.200.000;2018.0;100.0;450.0;https://www.chilemotos.com/moto/56435/;3200000.0;450.0;100.0;201-500cc;0-10k
+Yamaha Kodiak 450;$8.500.000;2022.0;30.0;449.0;https://www.chilemotos.com/moto/56427/;8500000.0;449.0;30.0;201-500cc;0-10k
+¡No la Dejes Escapar! Moto Impecable a Precio Increíble;$9.000.000;2022.0;13000.0;850.0;https://www.chilemotos.com/moto/56407/;9000000.0;850.0;13000.0;501-1000cc;10k-30k
+Ktm rc200, 2020 como nueva;$2.500.000;2020.0;4900.0;200.0;https://www.chilemotos.com/moto/56359/;2500000.0;200.0;4900.0;0-200cc;0-10k
+yamaha t max 500;$3.500.000;2008.0;20.0;500.0;https://www.chilemotos.com/moto/56351/;3500000.0;500.0;20.0;201-500cc;0-10k
+yamaha t max 500;$4.000.000;2010.0;37000.0;500.0;https://www.chilemotos.com/moto/56348/;4000000.0;500.0;37000.0;201-500cc;30k-50k
+Benelli trk 502;$5.250.000;2020.0;30000.0;500.0;https://www.chilemotos.com/moto/56323/;5250000.0;500.0;30000.0;201-500cc;10k-30k
+Triumph Tiger 800 Xrx;$8.500.000;2018.0;44000.0;800.0;https://www.chilemotos.com/moto/56314/;8500000.0;800.0;44000.0;501-1000cc;30k-50k
+Vendo moto Lifan LF200-10R;$1.500.000;2023.0;13000.0;198.0;https://www.chilemotos.com/moto/56282/;1500000.0;198.0;13000.0;0-200cc;10k-30k
+Ducati Multistrada 1200 S Pikes Peak;$7.800.000;2013.0;56800.0;1.2;https://www.chilemotos.com/moto/56288/;7800000.0;1200.0;56800.0;1000cc+;50k+
+Moto KTM;$4.950.000;2023.0;300.0;250.0;https://www.chilemotos.com/moto/56272/;4950000.0;250.0;300.0;201-500cc;0-10k
+Moto scooter honda dio;$1.290.000;2022.0;100000.0;115.0;https://www.chilemotos.com/moto/56267/;1290000.0;115.0;100000.0;0-200cc;50k+
+Motocicleta Voge 500 DSX NEGRA AÑO 2023;$4.300.000;2023.0;9350.0;471.0;https://www.chilemotos.com/moto/56257/;4300000.0;471.0;9350.0;201-500cc;0-10k
+BMW R 1200 Rt 2013;$11.000.000;2013.0;86000.0;1.2;https://www.chilemotos.com/moto/56253/;11000000.0;1200.0;86000.0;1000cc+;50k+
+Euromot Vintage 150;$800.000;2022.0;5800.0;150.0;https://www.chilemotos.com/moto/56229/;800000.0;150.0;5800.0;0-200cc;0-10k
+Moto Yz450FX;$5.200.000;2021.0;120.0;450.0;https://www.chilemotos.com/moto/56210/;5200000.0;450.0;120.0;201-500cc;0-10k
+Honda Elite 2019;$1.400.000;2019.0;7800.0;125.0;https://www.chilemotos.com/moto/56206/;1400000.0;125.0;7800.0;0-200cc;0-10k
+Susuki AN125;$650.000;2015.0;9761.0;125.0;https://www.chilemotos.com/moto/56201/;650000.0;125.0;9761.0;0-200cc;0-10k
+Vendo Moto Honda CBF 125 Twister;$1.300.000;2020.0;375.0;125.0;https://www.chilemotos.com/moto/56196/;1300000.0;125.0;375.0;0-200cc;0-10k
+Kawasaki Z400 año 2022;$4.100.000;2022.0;24000.0;400.0;https://www.chilemotos.com/moto/56187/;4100000.0;400.0;24000.0;201-500cc;10k-30k
+Moto Honda CB650R Naked;$8.200.000;2023.0;7600.0;650.0;https://www.chilemotos.com/moto/56141/;8200000.0;650.0;7600.0;501-1000cc;0-10k
+Yamaha MT-03 2023 | 3,300 KMs | Perfecto Estado | Negra | $4,800,000;$4.800.000;2023.0;3299.0;321.0;https://www.chilemotos.com/moto/56079/;4800000.0;321.0;3299.0;201-500cc;0-10k
+HONDA VFR CROSSRUNNER 800;$5.700.000;2012.0;48.0;800.0;https://www.chilemotos.com/moto/56072/;5700000.0;800.0;48.0;501-1000cc;0-10k
+vendo moto nueva con menos de mil kilometros con cascos valorados en 800.000 de regalo;$3.500.000;2022.0;900.0;300.0;https://www.chilemotos.com/moto/56047/;3500000.0;300.0;900.0;201-500cc;0-10k
+MOTOS SIDECAR;$15.590.000;2024.0;-35.0;700.0;https://www.chilemotos.com/moto/56041/;15590000.0;700.0;-35.0;501-1000cc;
+VENDO MOTO LIFAN NUEVA;$2.100.000;2023.0;50.0;250.0;https://www.chilemotos.com/moto/56035/;2100000.0;250.0;50.0;201-500cc;0-10k
+Moto eléctrica OneCool m6 como nueva!;$1.500.000;2022.0;500.0;150.0;https://www.chilemotos.com/moto/56002/;1500000.0;150.0;500.0;0-200cc;0-10k
+LIFAN KP 250 3R;$1.250.000;2021.0;21500.0;250.0;https://www.chilemotos.com/moto/55973/;1250000.0;250.0;21500.0;201-500cc;10k-30k
+Moto a la venta;$1.100.000;2022.0;16.0;125.0;https://www.chilemotos.com/moto/55960/;1100000.0;125.0;16.0;0-200cc;0-10k
+Moto Royal Enfield;$3.200.000;2022.0;350.0;350.0;https://www.chilemotos.com/moto/55901/;3200000.0;350.0;350.0;201-500cc;0-10k
+Scooter Honda Elite Fi;$1.350.000;2019.0;12.0;125.0;https://www.chilemotos.com/moto/55871/;1350000.0;125.0;12.0;0-200cc;0-10k
+Himalayan 2021;$2.990.000;2021.0;22000.0;411.0;https://www.chilemotos.com/moto/55837/;2990000.0;411.0;22000.0;201-500cc;10k-30k
+Ducati Scrambler Icon 800;$7.980.000;2019.0;9294.0;800.0;https://www.chilemotos.com/moto/55815/;7980000.0;800.0;9294.0;501-1000cc;0-10k
+KTM 390 ADVENTURE 2022;$4.000.000;2022.0;9299.0;389.0;https://www.chilemotos.com/moto/55814/;4000000.0;389.0;9299.0;201-500cc;0-10k
+harley davidson Breakout 114;$21.500.000;2020.0;10438.0;1.851;https://www.chilemotos.com/moto/55707/;21500000.0;1851.0;10438.0;1000cc+;10k-30k
+BMW S1000R 2023 poco uso;$16.000.000;2023.0;3000.0;1.0;https://www.chilemotos.com/moto/55687/;16000000.0;1000.0;3000.0;501-1000cc;0-10k
+Triumph Tiger 800 XCA;$8.500.000;2019.0;64000.0;800.0;https://www.chilemotos.com/moto/55636/;8500000.0;800.0;64000.0;501-1000cc;50k+
+Mororrad CG 150, 3mil km;$550.000;2021.0;3000.0;150.0;https://www.chilemotos.com/moto/55667/;550000.0;150.0;3000.0;0-200cc;0-10k
+VENDO VESPA PRIMAVERA 2019;$3.500.000;2019.0;2754.0;125.0;https://www.chilemotos.com/moto/55659/;3500000.0;125.0;2754.0;0-200cc;0-10k
+vendo solo por necesidad mi motora;$1.300.000;2021.0;45000.0;150.0;https://www.chilemotos.com/moto/55602/;1300000.0;150.0;45000.0;0-200cc;30k-50k
+FZ25;$2.700.000;2023.0;4500.0;250.0;https://www.chilemotos.com/moto/55597/;2700000.0;250.0;4500.0;201-500cc;0-10k
+Yamaha super tenere 1200;$11.900.000;2022.0;17500.0;1.2;https://www.chilemotos.com/moto/55590/;11900000.0;1200.0;17500.0;1000cc+;10k-30k
+Yamaha Tracer 9;$12.000.000;2023.0;500.0;890.0;https://www.chilemotos.com/moto/55584/;12000000.0;890.0;500.0;501-1000cc;0-10k
+Bajaj pulsar Ns200;$2.000.000;2024.0;2800.0;200.0;https://www.chilemotos.com/moto/55580/;2000000.0;200.0;2800.0;0-200cc;0-10k
+Vendo mi moto;$5.200.000;2022.0;12000.0;300.0;https://www.chilemotos.com/moto/55572/;5200000.0;300.0;12000.0;201-500cc;10k-30k
+Honda CB 500 FA;$5.000.000;2018.0;3469.0;500.0;https://www.chilemotos.com/moto/55566/;5000000.0;500.0;3469.0;201-500cc;0-10k
+Honda Elite;$1.400.000;2024.0;400.0;125.0;https://www.chilemotos.com/moto/55562/;1400000.0;125.0;400.0;0-200cc;0-10k
+Moto BMW GTL-1600;$17.990.000;2020.0;23000.0;1.6;https://www.chilemotos.com/moto/55558/;17990000.0;1600.0;23000.0;1000cc+;10k-30k
+Yamaha Grizzly 300;$2.500.000;2012.0;0.0;300.0;https://www.chilemotos.com/moto/55533/;2500000.0;300.0;0.0;201-500cc;
+SUZUKI GSXR150 AÑO 2021;$2.700.000;2021.0;14.0;150.0;https://www.chilemotos.com/moto/55486/;2700000.0;150.0;14.0;0-200cc;0-10k
+HONDA CB500X 2020;$5.700.000;2020.0;23700.0;500.0;https://www.chilemotos.com/moto/55467/;5700000.0;500.0;23700.0;201-500cc;10k-30k
+Bajaj Dominar 400;$3.100.000;2023.0;14500.0;400.0;https://www.chilemotos.com/moto/55453/;3100000.0;400.0;14500.0;201-500cc;10k-30k
+DUCATI STREETFIGHTER V4S;$19.600.000;2020.0;20000.0;1.1;https://www.chilemotos.com/moto/55444/;19600000.0;1100.0;20000.0;1000cc+;10k-30k
+Vendo moto;$1.400.000;2018.0;26800.0;150.0;https://www.chilemotos.com/moto/55431/;1400000.0;150.0;26800.0;0-200cc;10k-30k
+HONDA NAVI;$1.449.000;2021.0;2157.0;1.0;https://www.chilemotos.com/moto/55409/;1449000.0;1000.0;2157.0;501-1000cc;0-10k
+Vendo mi moto;$1.900.000;2022.0;4000.0;350.0;https://www.chilemotos.com/moto/55389/;1900000.0;350.0;4000.0;201-500cc;0-10k
+cuadrimoto can am 2021;$8;2021.0;119.0;570.0;https://www.chilemotos.com/moto/55397/;8000000.0;570.0;119.0;501-1000cc;0-10k
+Inigualable Muy poco Uso Honda Deauville 650;$6.500.000;2009.0;25000.0;650.0;https://www.chilemotos.com/moto/55372/;6500000.0;650.0;25000.0;501-1000cc;10k-30k
+Inigualable Muy poco Uso Honda Deauville 650;$5.900.000;2009.0;25000.0;650.0;https://www.chilemotos.com/moto/55368/;5900000.0;650.0;25000.0;501-1000cc;10k-30k
+Honda Elite 125;$590.000;2007.0;4100.0;125.0;https://www.chilemotos.com/moto/55348/;590000.0;125.0;4100.0;0-200cc;0-10k
+Bajaj Dominar 400cc Aventur;$2.899.439;2023.0;49540.0;400.0;https://www.chilemotos.com/moto/55338/;2899439.0;400.0;49540.0;201-500cc;30k-50k
+Gixxer 150 FRF;$2.599.900;2024.0;-1.0;150.0;https://www.chilemotos.com/moto/55298/;2599900.0;150.0;-1.0;0-200cc;
+BENELLI TNT 250n;$1.900.000;2022.0;8800.0;250.0;https://www.chilemotos.com/moto/54828/;1900000.0;250.0;8800.0;201-500cc;0-10k
+BMW S1000 XR;$11.000.000;2016.0;32000.0;1.0;https://www.chilemotos.com/moto/54844/;11000000.0;1000.0;32000.0;501-1000cc;30k-50k
+TVS APACHE RR310;$3.200.000;2023.0;7000.0;310.0;https://www.chilemotos.com/moto/54851/;3200000.0;310.0;7000.0;201-500cc;0-10k
+Keeway superlight 200;$1.500.000;2024.0;2900.0;200.0;https://www.chilemotos.com/moto/54857/;1500000.0;200.0;2900.0;0-200cc;0-10k
+Vendo mi moto por cambio cilindrada;$6.000.000;2020.0;28000.0;500.0;https://www.chilemotos.com/moto/54879/;6000000.0;500.0;28000.0;201-500cc;10k-30k
+Royal Enfield Interceptor 650;$5.100.000;2022.0;18000.0;647.0;https://www.chilemotos.com/moto/54918/;5100000.0;647.0;18000.0;501-1000cc;10k-30k
+Vendo deportiva voge 300r muy buen estado;$1.790.000;2022.0;13000.0;300.0;https://www.chilemotos.com/moto/54923/;1790000.0;300.0;13000.0;201-500cc;10k-30k
+Suzuki Gixxer 150 GS;$1.280.000;2021.0;3164.0;150.0;https://www.chilemotos.com/moto/55000/;1280000.0;150.0;3164.0;0-200cc;0-10k
+Suzuki 125;$2.890.000;2019.0;31256.0;124.0;https://www.chilemotos.com/moto/55006/;2890000.0;124.0;31256.0;0-200cc;30k-50k
+Oportunidad, Moto honda 500X a solo 5.400.000¡¡¡;$5.400.000;2019.0;9000.0;500.0;https://www.chilemotos.com/moto/55018/;5400000.0;500.0;9000.0;201-500cc;0-10k
+Royal Enfield Meteor 350;$2.800.000;2022.0;6000.0;349.0;https://www.chilemotos.com/moto/55041/;2800000.0;349.0;6000.0;201-500cc;0-10k
+Vendo Dominar 400UG;$2.300.000;2021.0;20200.0;373.0;https://www.chilemotos.com/moto/55064/;2300000.0;373.0;20200.0;201-500cc;10k-30k
+honda;$2.200.000;2000.0;200.0;200.0;https://www.chilemotos.com/moto/55071/;2200000.0;200.0;200.0;0-200cc;0-10k
+se vende moto vespa;$3.200.000;2013.0;56000.0;300.0;https://www.chilemotos.com/moto/55077/;3200000.0;300.0;56000.0;201-500cc;50k+
+Royal Enfield Continental GT 650 año 2022 impecable;$4.500.000;2022.0;5900.0;650.0;https://www.chilemotos.com/moto/55245/;4500000.0;650.0;5900.0;501-1000cc;0-10k
+Moto de nieve ATV;$6.300.000;2017.0;2500.0;850.0;https://www.chilemotos.com/moto/55225/;6300000.0;850.0;2500.0;501-1000cc;0-10k
+BMW gs 750 motor 850cc;$9.500.000;2022.0;1800.0;850.0;https://www.chilemotos.com/moto/54970/;9500000.0;850.0;1800.0;501-1000cc;0-10k
+Vendo moto HONDA CB500X;$5.600.000;2017.0;49200.0;500.0;https://www.chilemotos.com/moto/55045/;5600000.0;500.0;49200.0;201-500cc;30k-50k
+Yamaha Midnight Star 950;$7.000.000;2015.0;30000.0;950.0;https://www.chilemotos.com/moto/55031/;7000000.0;950.0;30000.0;501-1000cc;10k-30k
+Honda X Blade 2024;$2.000.000;2024.0;35.0;160.0;https://www.chilemotos.com/moto/55027/;2000000.0;160.0;35.0;0-200cc;0-10k
+Triumph Thruxton 2016;$6.990.000;2016.0;7000.0;900.0;https://www.chilemotos.com/moto/54990/;6990000.0;900.0;7000.0;501-1000cc;0-10k
+Ténéré 700, 2021;$9.700.000;2021.0;17200.0;700.0;https://www.chilemotos.com/moto/54984/;9700000.0;700.0;17200.0;501-1000cc;10k-30k
+Honda CBR500;$4.650.000;2018.0;32.0;500.0;https://www.chilemotos.com/moto/54959/;4650000.0;500.0;32.0;201-500cc;0-10k
+HODA NC750XD AUTOMATICA;$6.600.000;2018.0;5200.0;749.0;https://www.chilemotos.com/moto/54913/;6600000.0;749.0;5200.0;501-1000cc;0-10k
+2018 Zongshen Rx3;$2.800.000;2018.0;27.0;250.0;https://www.chilemotos.com/moto/54903/;2800000.0;250.0;27.0;201-500cc;0-10k
+Gran oportunidad;$3.000.000;2022.0;690.0;350.0;https://www.chilemotos.com/moto/54893/;3000000.0;350.0;690.0;201-500cc;0-10k
+Vendo mi moto;$1.500.000;2023.0;1443.0;1.0;https://www.chilemotos.com/moto/54884/;1500000.0;1000.0;1443.0;501-1000cc;0-10k
+Honda Shadow 150 – 2020;$1.500.000;2020.0;3054.0;150.0;https://www.chilemotos.com/moto/54875/;1500000.0;150.0;3054.0;0-200cc;0-10k
+Vendo Meteor 350 Conversable;$2.599.999;2022.0;16500.0;349.0;https://www.chilemotos.com/moto/54871/;2599999.0;349.0;16500.0;201-500cc;10k-30k
+Vendo Moto 45 kilómetros;$1.800.000;2022.0;45.0;160.0;https://www.chilemotos.com/moto/54866/;1800000.0;160.0;45.0;0-200cc;0-10k
+Venta;$3.150.000;2024.0;0.0;250.0;https://www.chilemotos.com/moto/54831/;3150000.0;250.0;0.0;201-500cc;
+KTM 390 Adventure 2021;$4.000.000;2021.0;50000.0;390.0;https://www.chilemotos.com/moto/54823/;4000000.0;390.0;50000.0;201-500cc;30k-50k
+Vespa VXL 150 CC;$3.400.000;2022.0;368.0;149.0;https://www.chilemotos.com/moto/54805/;3400000.0;149.0;368.0;0-200cc;0-10k
+Venta de Moto con todo su Equipo;$4.700.000;2013.0;98.0;800.0;https://www.chilemotos.com/moto/54753/;4700000.0;800.0;98.0;501-1000cc;0-10k
+Vendo Moto Yamaha XTZ 150 año 2022;$1.990.000;2022.0;1430.0;150.0;https://www.chilemotos.com/moto/54731/;1990000.0;150.0;1430.0;0-200cc;0-10k
+oportunidad Yamaha R15 año 2015;$1.500.000;2015.0;50000.0;150.0;https://www.chilemotos.com/moto/54700/;1500000.0;150.0;50000.0;0-200cc;30k-50k
+Venta Moto Apache 200;$3.200.000;2024.0;1.0;200.0;https://www.chilemotos.com/moto/54683/;3200000.0;200.0;1.0;0-200cc;0-10k
+Se vende moto;$2.650.000;2023.0;4005.0;250.0;https://www.chilemotos.com/moto/54638/;2650000.0;250.0;4005.0;201-500cc;0-10k
+Yamaha NMAX;$2.090.000;2020.0;16500.0;155.0;https://www.chilemotos.com/moto/54663/;2090000.0;155.0;16500.0;0-200cc;10k-30k
+Yamaha NMax 155 año 2020 Excelente Estado;$2.050.000;2020.0;15300.0;155.0;https://www.chilemotos.com/moto/54659/;2050000.0;155.0;15300.0;0-200cc;10k-30k
+Regal Raptor;$930.000;2016.0;27500.0;150.0;https://www.chilemotos.com/moto/54651/;930000.0;150.0;27500.0;0-200cc;10k-30k
+Se vende por renovación;$1.300.000;2021.0;31800.0;150.0;https://www.chilemotos.com/moto/54598/;1300000.0;150.0;31800.0;0-200cc;30k-50k
+Suzuki Moto Nueva;$1.999.000;2022.0;335.0;150.0;https://www.chilemotos.com/moto/54628/;1999000.0;150.0;335.0;0-200cc;0-10k
+s 1000r;$13.990.000;2023.0;12000.0;1.0;https://www.chilemotos.com/moto/54609/;13990000.0;1000.0;12000.0;501-1000cc;10k-30k
+Honda Navi 2022;$1.200.000;2022.0;5200.0;110.0;https://www.chilemotos.com/moto/54601/;1200000.0;110.0;5200.0;0-200cc;0-10k
+Honda Tornado XR 250 2012;$2.600.000;2012.0;49500.0;250.0;https://www.chilemotos.com/moto/54586/;2600000.0;250.0;49500.0;201-500cc;30k-50k
+Zontes V310;$3.300.000;2022.0;25000.0;310.0;https://www.chilemotos.com/moto/53976/;3300000.0;310.0;25000.0;201-500cc;10k-30k
+2022 Yamaha MT03 Nueva 147 km;$4.800.000;2022.0;147.0;321.0;https://www.chilemotos.com/moto/53964/;4800000.0;321.0;147.0;201-500cc;0-10k
+TVS Apache RTR 200;$1.300.000;2023.0;2499.0;200.0;https://www.chilemotos.com/moto/53932/;1300000.0;200.0;2499.0;0-200cc;0-10k
+Yamaha Raptor YFM350R;$3.800.000;2013.0;0.0;350.0;https://www.chilemotos.com/moto/53883/;3800000.0;350.0;0.0;201-500cc;
+Moto Honda PCX 150 del 2017;$2.000.000;2017.0;6500.0;150.0;https://www.chilemotos.com/moto/53863/;2000000.0;150.0;6500.0;0-200cc;0-10k
+Moto Haouje;$1.600.000;2022.0;3712.0;160.0;https://www.chilemotos.com/moto/53793/;1600000.0;160.0;3712.0;0-200cc;0-10k
+Oferta unica;$1.100.000;2022.0;1080.0;125.0;https://www.chilemotos.com/moto/53810/;1100000.0;125.0;1080.0;0-200cc;0-10k
+BMW F800 GS;$6.500.000;2012.0;73999.0;800.0;https://www.chilemotos.com/moto/53782/;6500000.0;800.0;73999.0;501-1000cc;50k+
+Se vende Vespa a muy buen precio;$2.500.000;2023.0;800.0;150.0;https://www.chilemotos.com/moto/53757/;2500000.0;150.0;800.0;0-200cc;0-10k
+Moto, maca Motorrad;$1.550.000;2023.0;3111.0;335.0;https://www.chilemotos.com/moto/53753/;1550000.0;335.0;3111.0;201-500cc;0-10k
+2014 Honda CB500X;$4.290.000;2014.0;14333.0;500.0;https://www.chilemotos.com/moto/53722/;4290000.0;500.0;14333.0;201-500cc;10k-30k
+BMW F800 GS;$9.100.000;2016.0;17000.0;800.0;https://www.chilemotos.com/moto/53717/;9100000.0;800.0;17000.0;501-1000cc;10k-30k
